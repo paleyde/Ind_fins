@@ -1,0 +1,193 @@
+,sector,comp_name,industry
+0,Agro Chemicals,12,"['Pesticides / Agrochemicals - Multinational'
+ 'Pesticides / Agrochemicals - Indian - Large'
+ 'Pesticides / Agrochemicals - Indian - Medium/Small']"
+1,Air Transport Service,4,['Transport - Airlines']
+2,Alcoholic Beverages,13,['Breweries' 'Distilleries']
+3,Auto Ancillaries,69,"['Bearings - Large' 'Auto Ancillaries - Gears'
+ 'Auto Ancillaries - Batteries' 'Auto Ancillaries - Clutches'
+ 'Auto Ancillaries - Shock Absorbers' 'Auto Ancillaries - Engine Parts'
+ 'Auto Ancillaries - Friction Materials' 'Auto Ancillaries - Brakes'
+ 'Auto Ancillaries - Others' 'Auto Ancillaries - Wheels'
+ 'Auto Ancillaries - Axles / Shafts' 'Auto Ancillaries - Lamps'
+ 'Auto Ancillaries - Springs' 'Auto Ancillaries - Sheet Metal'
+ 'Auto Ancillaries - Electrical' 'Auto Ancillaries - Instruments'
+ 'Auto Ancillaries - Trading' 'Bearings - Medium / Small']"
+4,Automobile,16,"['Automobiles - LCVs/HCVs' 'Automobiles - Tractors'
+ 'Automobiles - Motorcycles / Mopeds' 'Automobiles - passenger cars'
+ 'Automobiles - Scooters and 3-Wheelers']"
+5,Banks,41,['Banks - Public Sector' 'Banks - Private Sector']
+6,Bearings,1,['Bearings - Medium / Small']
+7,Cables,16,"['Cables - Power - Large' 'Cables - Telephone'
+ 'Cables - Power - Medium / Small']"
+8,Capital Goods - Electrical Equipment,52,"['Electric Equipment - Transformers'
+ 'Electric Equipment - Gensets / Turbines'
+ 'Electric Equipment - General - Large'
+ 'Electric Equipment - Switchgears/Relays/Circuits'
+ 'Electric Equipment - General - Medium / Small'
+ 'Transmisson Line Towers / Equipment' 'Hydraulics'
+ 'Engineering - Heavy - General - Medium / Small']"
+9,Capital Goods-Non Electrical Equipment,51,"['Electrodes - Graphites' 'Abrasives and Grinding Wheels'
+ 'Engineering - Heavy - Material Handling'
+ 'Compressors / Drilling Equipment' 'Engines' 'Pumps'
+ 'Engineering - Heavy - General - Large' 'Machine Tools - Others'
+ 'Engineering - Heavy - General - Medium / Small' 'Hydraulics'
+ 'Electrodes - Welding Equipment' 'Engineering - Heavy - Plastic Machinery'
+ 'Engineering - Light - General - Medium / Small'
+ 'Pollution Control Equipment' 'Engineering - Turnkey Services'
+ 'Fire - Protection Equipment']"
+10,"Castings, Forgings & Fastners",20,"['Forgings - Large' 'Castings - Grey Iron' 'Fasteners'
+ 'Castings - Steel / Alloy' 'Forgings - Medium / Small']"
+11,Cement,26,"['Cement - Major - North India' 'Cement - Major - South India'
+ 'Cement - Mini - South India' 'Cement - Mini - North India']"
+12,Cement - Products,7,['Cement Products']
+13,Ceramic Products,10,['Ceramics - Tiles' 'Ceramics - Sanitaryware / Others']
+14,Chemicals,71,"['Dyes And Pigments - Large' 'Leather Chemicals'
+ 'Chemicals - Speciality - Medium / Small' 'Chemicals - Speciality - Large'
+ 'Chemicals - Benzene-based' 'Chemicals - Organic - Large'
+ 'Aluminium Chemicals' 'Chlor-Alkali' 'Industrial Explosives'
+ 'Industrial Gas' 'Lubricants' 'Chemicals - Organic - Medium / Small'
+ 'Carbon Black' 'Chemicals - Inorganic - Medium / Small'
+ 'Chemicals - Maleic Anhydride / Phthalic Anhydride' 'Soda Ash'
+ 'Chemicals - Alcohol-based' 'Chemicals - Gelatine'
+ 'Dyes - Reactive / Direct' 'Dyes And Pigments - Medium / Small'
+ 'Chemicals - Inorganic - Large' 'Dyes - Intermediate'
+ 'Chemicals - Pentaerythritol / Formaldehyde']"
+15,Computer Education,9,['Computers - Education']
+16,Construction,42,"['Construction - Civil / Turnkey - Medium / Small'
+ 'Construction - Civil / Turnkey - Large'
+ 'Construction - Housing - Medium / Small'
+ 'Construction - Factories / Offices / Commercial'
+ 'Construction - Housing - Large']"
+17,Consumer Durables,37,"['Domestic Appliances - White Goods' 'Air-conditioners'
+ 'Electronics - Hard Ferrites' 'Domestic Appliances - Fans'
+ 'Electronics - Picture Tubes - Colour'
+ 'Electronics - Instrumentation And Process Control'
+ 'Electronics - Power Devices / Equipment' 'Electronics - Others'
+ 'Watches & Accessories' 'Electronics - TV / Audio / VCR / VCP'
+ 'Domestic Appliances - Cookers / Others']"
+18,Crude Oil & Natural Gas,7,['Oil Exploration / Allied Services']
+19,"Diamond, Gems and Jewellery",20,"['Diamond Cutting / Jewellery - Large'
+ 'Diamond Cutting / Jewellery - Medium / Small']"
+20,Diversified,9,['Diversified - Mega' 'Diversified - Medium / Small' 'Diversified - Large']
+21,Dry cells,3,['Dry Cells']
+22,Edible Oil,15,"['Solvent Extraction - Large' 'Solvent Extraction - Medium / Small'
+ 'Vanaspati - Large']"
+23,Education,2,['Miscellaneous - Medium / Small']
+24,Engineering,5,"['Engineering - Turnkey Services' 'Engineering - Heavy - Material Handling'
+ 'Machine Tools - Others' 'Engineering - Light - General - Medium / Small']"
+25,Entertainment,40,"['Entertainment - Content Providers' 'Entertainment - Electronic Media'
+ 'Recreation / Amusement Parks']"
+26,FMCG,42,"['Food And Dairy Products - Multinational' 'Personal Care - Multinational'
+ 'Detergents / Intermediates' 'Food And Dairy Products - Indian - Large'
+ 'Food - Processing - Spices / Pickles' 'Food - Processing - Others'
+ 'Food - Proccesing - Rice' 'Food - Processing - Mushrooms'
+ 'Personal Care - Indian - Large'
+ 'Food and Dairy Products - Indian - Medium / Small'
+ 'Food - Processing - Egg Powder' 'Personal Care - Indian - Medium / Small'
+ 'Food - Processing - Atta / Rava / Sooji'
+ 'Food - Processing - Fruit Processing']"
+27,Fertilizers,18,"['Fertilizers - Nitrogenous / Phosphatic'
+ 'Fertilizers - Phosphatic - Single Super Phosphate']"
+28,Finance,113,"['Finance - Investment / Others' 'Finance - Medium'
+ 'Finance - Housing - Large' 'Finance - Large' 'Finance - Small'
+ 'Finance - Equipment - Leasing & Maintenance'
+ 'Finance - Housing - Medium / Small'
+ 'Securities/Commodities Trading Services'
+ 'Finance - Term-Lending Institutions' 'Finance - Leasing And Diversified']"
+29,Gas Distribution,5,['Gas Distribution']
+30,Glass & Glass Products,5,['Glass - Sheet / Float' 'Glass - Containers / Others']
+31,Healthcare,11,"['Hospitals / Medical Services' 'Medical Accessories / Disposables'
+ 'Medical Equipment']"
+32,Hotels & Restaurants,23,['Hotels - Large' 'Hotels - Medium' 'Hotels - Small' 'Hotels - Resorts']
+33,IT - Hardware,10,"['Computers - Hardware - Large' 'Computers - Peripherals / Accessories'
+ 'Computers - Hardware - Medium / Small']"
+34,IT - Software,118,"['Computers - Software - Medium / Small' 'Computers - Software - Large'
+ 'Computers - Software - Converts'
+ 'IT Enabled Services / Business Process Outsourcing']"
+35,Infrastructure Developers & Operators,28,"['Construction - Civil / Turnkey - Large' 'Engineering - Turnkey Services'
+ 'Construction - Civil / Turnkey - Medium / Small'
+ 'Miscellaneous - Medium / Small']"
+36,Insurance,1,['Finance - Investment / Others']
+37,Leather,9,"['Leather / Synthetic Footware - Large' 'Leather Products - Others'
+ 'Leather Products - Integrated' 'Leather Products - Garments']"
+38,Logistics,15,['Transport - Road' 'Couriers' 'Miscellaneous - Medium / Small']
+39,Media - Print/Television/Radio,18,"['Printing & Stationery' 'Entertainment - Electronic Media'
+ 'Entertainment - Content Providers']"
+40,Mining & Mineral products,20,"['Mining / Minerals' 'Coke / Metalurgical Coke' 'Granite & Marble - Large'
+ 'Ferro Alloys']"
+41,Miscellaneous,57,"['Cycles And Accessories' 'Miscellaneous - Medium / Small'
+ 'Decoratives - Wood-based' 'Travel Agencies' 'Hatcheries'
+ 'Miscellaneous - Large' 'Granite & Marble - Large'
+ 'Analytical Laboratory Equipment' 'Food - Processing - Others'
+ 'Floriculture / Tissue Culture' 'Lighting Systems' 'Laminates'
+ 'Contraceptives / Protectives' 'LPG Bottling'
+ 'Food And Dairy Products - Multinational' 'Gas Distribution'
+ 'Photographic And Allied Products']"
+42,Non Ferrous Metals,19,"['Aluminium' 'Metal - Others' 'Aluminium - Extrusions' 'Metal - Zinc'
+ 'Metal - Copper / Copper Alloy Products'
+ 'Aluminium - Sheets / Coils / Wires / Others' 'Ferro Alloys']"
+43,Oil Drill/Allied,3,['Oil Drilling' 'Oil Exploration / Allied Services']
+44,Online Media,1,['Entertainment - Electronic Media']
+45,Packaging,25,"['Packaging - BOPP Film' 'Packaging - Others' 'Packaging - Polyester Film'
+ 'Packaging - Lamination / Processors - Large' 'Packaging - Polysacks'
+ 'Packaging - Plastic Containers'
+ 'Packaging - Lamination / Processors - Medium/Small']"
+46,Paints/Varnish,7,['Paints / Varnishes']
+47,Paper,20,['Paper - Large' 'Paper - Medium / Small']
+48,Petrochemicals,10,"['Petrochemicals - Polymers - Large'
+ 'Petrochemicals - Polymers - Medium / Small' 'Petrochemicals - Others']"
+49,Pharmaceuticals,88,"['Pharmaceuticals - Indian - Formulations'
+ 'Pharmaceuticals - Multinational'
+ 'Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg'
+ 'Pharmaceuticals - Indian - Bulk Drugs'
+ 'Pharmaceuticals - Indian - Bulk Drugs & Formln M/S'
+ 'Pharmaceuticals - I V Fluids' 'Biotechnology']"
+50,Plantation & Plantation Products,21,"['Tea - Indian - Medium / Small' 'Tea - Indian - Large' 'Coffee'
+ 'Rubber - Products' 'Rubber - Synthetic' 'Tea - Processing And Trading'
+ 'Rubber - Retreading']"
+51,Plastic products,29,"['Plastics - Others' 'Plastics - Sheets' 'Moulded Luggage'
+ 'Plastics - Bottles / Jars' 'Plastics - Pipes' 'Plastics - Furniture'
+ 'Plastics - PU & PU leather' 'Plastics - Thermoware' 'Plastics - Flooring']"
+52,Power Generation & Distribution,27,['Power Generation And Supply']
+53,Printing & Stationery,3,['Printing & Stationery']
+54,Readymade Garments/ Apparells,11,['Textiles - Readymade Apparel']
+55,Realty,55,"['Construction - Factories / Offices / Commercial'
+ 'Construction - Housing - Large' 'Construction - Housing - Medium / Small'
+ 'Construction - Civil / Turnkey - Medium / Small'
+ 'Construction - Civil / Turnkey - Large']"
+56,Refineries,7,['Refineries']
+57,Refractories,3,['Refractories / Intermediates']
+58,Retail,10,['Retailing']
+59,Sanitaryware,1,['Ceramics - Sanitaryware / Others']
+60,Ship Building,3,['Ship - Breaking / Repairing']
+61,Shipping,9,['Shipping - Large' 'Shipping - medium / small']
+62,Steel,77,"['Steel - Sponge Iron' 'Steel - Rolling' 'Steel - Medium / Small'
+ 'Steel - Tubes / Pipes' 'Steel - Large' 'Steel - Seamless Tubes'
+ 'Steel - Pig Iron' 'Steel - Wires']"
+63,Stock/ Commodity Brokers,6,['Securities/Commodities Trading Services']
+64,Sugar,29,['Sugar - Integrated' 'Sugar - Others']
+65,Telecom-Handsets/Mobile,1,['Telecommunications - Equipment - Large']
+66,Telecomm Equipment & Infra Services,14,"['Telecommunications - Equipment - Large'
+ 'Telecommunications - Equipment - Medium / Small'
+ 'Transmisson Line Towers / Equipment']"
+67,Telecomm-Service,9,['Telecommunications - Service Provider']
+68,Textiles,131,"['Textiles - Denim Fabric' 'Textiles - Texturising'
+ 'Textiles - Manmade - PFY/PSF - InHouse Poly Condsn'
+ 'Textiles - Spinning/Cotton/Blended Yarn - Ring Spg' 'Textiles - Others'
+ 'Textiles - Acrylic Fibre' 'Textile machinery' 'Textiles - Rayon'
+ 'Textiles - Manmade - Nylon' 'Textiles - Weaving'
+ 'Textiles - Manmade - PFY / PSF - From Chips'
+ 'Textiles - Spinning - Synthetic / Blended' 'Textiles - Silk'
+ 'Textiles - Hosiery / Knitwear'
+ 'Textiles - Cotton Yarn - Open-Ended Spinning'
+ 'Textiles - Cotton Yarn - 100% EOUs' 'Textiles - Terry Towels'
+ 'Textiles - Manmade - Polypropylene Filament Yarn'
+ 'Textiles - Composite/Cotton/Blended/Fabric - M/S'
+ 'Textiles - Composite/Cotton/Blended/Fabric - LARGE'
+ 'Textiles - Processing' 'Textiles - Embroidery Fabric'
+ 'Textiles - Jute - Yarn / Products' 'Textiles - Readymade Apparel'
+ 'Retailing' 'Textiles - Worsted Fabric']"
+69,Tobacco Products,4,['Cigarettes']
+70,Trading,32,['Trading - Medium / Small' 'Trading - Large']
+71,Tyres,8,['Tyres - Large' 'Tyres - Medium / Small']

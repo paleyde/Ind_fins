@@ -1,0 +1,1755 @@
+,index,company,industry_code,industry_name,sector_code,sector_name
+0,580,Bayer Crop Sci.,20,Pesticides / Agrochemicals - Multinational,17,Agro Chemicals
+1,582,Astec Life,185,Pesticides / Agrochemicals - Indian - Medium/Small,17,Agro Chemicals
+2,583,Dhanuka Agritech,185,Pesticides / Agrochemicals - Indian - Medium/Small,17,Agro Chemicals
+3,584,Insecticid.India,185,Pesticides / Agrochemicals - Indian - Medium/Small,17,Agro Chemicals
+4,585,Bharat Rasayan,185,Pesticides / Agrochemicals - Indian - Medium/Small,17,Agro Chemicals
+5,586,Jubilant Inds.,104,Pesticides / Agrochemicals - Indian - Large,17,Agro Chemicals
+6,587,Meghmani Organ.,104,Pesticides / Agrochemicals - Indian - Large,17,Agro Chemicals
+7,588,UPL,104,Pesticides / Agrochemicals - Indian - Large,17,Agro Chemicals
+8,589,P I Inds.,104,Pesticides / Agrochemicals - Indian - Large,17,Agro Chemicals
+9,590,Excel Crop Care,104,Pesticides / Agrochemicals - Indian - Large,17,Agro Chemicals
+10,591,Rallis India,104,Pesticides / Agrochemicals - Indian - Large,17,Agro Chemicals
+11,581,Monsanto India,20,Pesticides / Agrochemicals - Multinational,17,Agro Chemicals
+12,25,KF Airlines,252,Transport - Airlines,65,Air Transport Service
+13,28,Jet Airways,252,Transport - Airlines,65,Air Transport Service
+14,27,Global Vectra,252,Transport - Airlines,65,Air Transport Service
+15,26,Interglobe Aviat,252,Transport - Airlines,65,Air Transport Service
+16,1205,United Spirits,196,Distilleries,51,Alcoholic Beverages
+17,1206,Radico Khaitan,196,Distilleries,51,Alcoholic Beverages
+18,1207,Aurangabad Dist.,196,Distilleries,51,Alcoholic Beverages
+19,1600,Globus Spirits,147,Breweries,51,Alcoholic Beverages
+20,1601,Ravikumar Distll,147,Breweries,51,Alcoholic Beverages
+21,1602,United Breweries,147,Breweries,51,Alcoholic Beverages
+22,1603,IFB Agro Inds.,147,Breweries,51,Alcoholic Beverages
+23,1210,Som Distilleries,196,Distilleries,51,Alcoholic Beverages
+24,1208,Pioneer Distil.,196,Distilleries,51,Alcoholic Beverages
+25,1209,Empee Distill.,196,Distilleries,51,Alcoholic Beverages
+26,1203,G M Breweries,196,Distilleries,51,Alcoholic Beverages
+27,1204,Tilaknagar Inds.,196,Distilleries,51,Alcoholic Beverages
+28,1211,Pincon Spirit,196,Distilleries,51,Alcoholic Beverages
+29,1717,Shriram Pistons,65,Auto Ancillaries - Engine Parts,10,Auto Ancillaries
+30,1613,Timken India,11,Bearings - Large,10,Auto Ancillaries
+31,1719,Federal-Mogul Go,65,Auto Ancillaries - Engine Parts,10,Auto Ancillaries
+32,1671,Steel Str. Wheel,125,Auto Ancillaries - Wheels,10,Auto Ancillaries
+33,1672,Wheels India,125,Auto Ancillaries - Wheels,10,Auto Ancillaries
+34,1673,Jullundur Motor,191,Auto Ancillaries - Trading,10,Auto Ancillaries
+35,1674,India Motor Part,191,Auto Ancillaries - Trading,10,Auto Ancillaries
+36,1675,Jamna Auto Inds.,165,Auto Ancillaries - Springs,10,Auto Ancillaries
+37,1676,Munjal Showa,61,Auto Ancillaries - Shock Absorbers,10,Auto Ancillaries
+38,1677,Gabriel India,61,Auto Ancillaries - Shock Absorbers,10,Auto Ancillaries
+39,1678,Omax Autos,166,Auto Ancillaries - Sheet Metal,10,Auto Ancillaries
+40,1679,Automotive Stamp,166,Auto Ancillaries - Sheet Metal,10,Auto Ancillaries
+41,1680,Jay Bharat Mar.,166,Auto Ancillaries - Sheet Metal,10,Auto Ancillaries
+42,1681,Castex Tech,115,Auto Ancillaries - Others,10,Auto Ancillaries
+43,1682,WABCO India,115,Auto Ancillaries - Others,10,Auto Ancillaries
+44,1683,Precision Camshf,115,Auto Ancillaries - Others,10,Auto Ancillaries
+45,1612,Fag Bearings,11,Bearings - Large,10,Auto Ancillaries
+46,1684,JBM Auto,115,Auto Ancillaries - Others,10,Auto Ancillaries
+47,1611,SKF India,11,Bearings - Large,10,Auto Ancillaries
+48,1609,Menon Bearings,216,Bearings - Medium / Small,10,Auto Ancillaries
+49,1734,Rane (Madras),128,Auto Ancillaries - Axles / Shafts,10,Auto Ancillaries
+50,1733,Automotive Axles,128,Auto Ancillaries - Axles / Shafts,10,Auto Ancillaries
+51,1732,GNA Axles,128,Auto Ancillaries - Axles / Shafts,10,Auto Ancillaries
+52,1731,Exide Inds.,35,Auto Ancillaries - Batteries,10,Auto Ancillaries
+53,1730,Amara Raja Batt.,35,Auto Ancillaries - Batteries,10,Auto Ancillaries
+54,1729,PAE,35,Auto Ancillaries - Batteries,10,Auto Ancillaries
+55,1728,Sundaram Clayton,112,Auto Ancillaries - Brakes,10,Auto Ancillaries
+56,1727,Amtek Auto,112,Auto Ancillaries - Brakes,10,Auto Ancillaries
+57,1726,ANG Inds,112,Auto Ancillaries - Brakes,10,Auto Ancillaries
+58,1725,Clutch Auto,37,Auto Ancillaries - Clutches,10,Auto Ancillaries
+59,1724,Setco Automotive,37,Auto Ancillaries - Clutches,10,Auto Ancillaries
+60,1718,Rane Engine Val.,65,Auto Ancillaries - Engine Parts,10,Auto Ancillaries
+61,1722,Motherson Sumi,189,Auto Ancillaries - Electrical,10,Auto Ancillaries
+62,1721,India Nipp.Elec.,189,Auto Ancillaries - Electrical,10,Auto Ancillaries
+63,1720,Ucal Fuel Sys.,65,Auto Ancillaries - Engine Parts,10,Auto Ancillaries
+64,1610,NRB Bearings,11,Bearings - Large,10,Auto Ancillaries
+65,1685,Fiem Inds.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+66,1723,Minda Inds.,189,Auto Ancillaries - Electrical,10,Auto Ancillaries
+67,1687,L G Balakrishnan,115,Auto Ancillaries - Others,10,Auto Ancillaries
+68,1716,Bosch,65,Auto Ancillaries - Engine Parts,10,Auto Ancillaries
+69,1715,Rane Brake Lin.,78,Auto Ancillaries - Friction Materials,10,Auto Ancillaries
+70,1686,Talbros Auto.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+71,1713,Sundaram Brake,78,Auto Ancillaries - Friction Materials,10,Auto Ancillaries
+72,1712,The Hi-Tech Gear,23,Auto Ancillaries - Gears,10,Auto Ancillaries
+73,1711,Bharat Gears,23,Auto Ancillaries - Gears,10,Auto Ancillaries
+74,1710,Shanthi Gears,23,Auto Ancillaries - Gears,10,Auto Ancillaries
+75,1709,Sona Koyo Steer.,23,Auto Ancillaries - Gears,10,Auto Ancillaries
+76,1708,JMT Auto,23,Auto Ancillaries - Gears,10,Auto Ancillaries
+77,1707,Pricol,190,Auto Ancillaries - Instruments,10,Auto Ancillaries
+78,1706,Minda Corp,190,Auto Ancillaries - Instruments,10,Auto Ancillaries
+79,1705,Lumax Inds.,142,Auto Ancillaries - Lamps,10,Auto Ancillaries
+80,1704,Autolite (I),142,Auto Ancillaries - Lamps,10,Auto Ancillaries
+81,1703,Phoenix Lamps,142,Auto Ancillaries - Lamps,10,Auto Ancillaries
+82,1702,Banco Products,115,Auto Ancillaries - Others,10,Auto Ancillaries
+83,1714,Hind.Composites,78,Auto Ancillaries - Friction Materials,10,Auto Ancillaries
+84,1693,PPAP Automotive,115,Auto Ancillaries - Others,10,Auto Ancillaries
+85,1701,Suprajit Engg.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+86,1700,Autoline Inds.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+87,1699,Alicon Cast.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+88,1698,Harita Seating,115,Auto Ancillaries - Others,10,Auto Ancillaries
+89,1697,Endurance Tech.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+90,1696,Lumax Auto.Sys.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+91,1695,Lumax Auto Tech.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+92,1694,Sharda Motor,115,Auto Ancillaries - Others,10,Auto Ancillaries
+93,1692,Munjal Auto Inds,115,Auto Ancillaries - Others,10,Auto Ancillaries
+94,1691,Subros,115,Auto Ancillaries - Others,10,Auto Ancillaries
+95,1690,Shivam Autotech,115,Auto Ancillaries - Others,10,Auto Ancillaries
+96,1688,Remsons Inds.,115,Auto Ancillaries - Others,10,Auto Ancillaries
+97,1689,Rico Auto Inds,115,Auto Ancillaries - Others,10,Auto Ancillaries
+98,1670,Tata Motors,7,Automobiles - LCVs/HCVs,6,Automobile
+99,1669,Ashok Leyland,7,Automobiles - LCVs/HCVs,6,Automobile
+100,1668,SML ISUZU,7,Automobiles - LCVs/HCVs,6,Automobile
+101,1656,M & M,75,Automobiles - passenger cars,6,Automobile
+102,1655,Hind.Motors,75,Automobiles - passenger cars,6,Automobile
+103,1666,TVS Motor Co.,73,Automobiles - Motorcycles / Mopeds,6,Automobile
+104,1665,Hero Motocorp,73,Automobiles - Motorcycles / Mopeds,6,Automobile
+105,1664,Mah. Scooters,92,Automobiles - Scooters and 3-Wheelers,6,Automobile
+106,1667,Eicher Motors,7,Automobiles - LCVs/HCVs,6,Automobile
+107,1662,Bajaj Auto,92,Automobiles - Scooters and 3-Wheelers,6,Automobile
+108,1663,LML,92,Automobiles - Scooters and 3-Wheelers,6,Automobile
+109,1660,VST Till. Tract.,53,Automobiles - Tractors,6,Automobile
+110,1659,HMT,53,Automobiles - Tractors,6,Automobile
+111,1658,Escorts,53,Automobiles - Tractors,6,Automobile
+112,1657,Maruti Suzuki,75,Automobiles - passenger cars,6,Automobile
+113,1661,Atul Auto,92,Automobiles - Scooters and 3-Wheelers,6,Automobile
+114,1624,Pun. & Sind Bank,178,Banks - Public Sector,58,Banks
+115,1623,J & K Bank,178,Banks - Public Sector,58,Banks
+116,1622,Bank of Maha,178,Banks - Public Sector,58,Banks
+117,1621,IDBI Bank,178,Banks - Public Sector,58,Banks
+118,1620,Vijaya Bank,178,Banks - Public Sector,58,Banks
+119,1614,Allahabad Bank,178,Banks - Public Sector,58,Banks
+120,1617,UCO Bank,178,Banks - Public Sector,58,Banks
+121,1616,United Bank (I),178,Banks - Public Sector,58,Banks
+122,1615,Andhra Bank,178,Banks - Public Sector,58,Banks
+123,1625,Dena Bank,178,Banks - Public Sector,58,Banks
+124,1619,Union Bank (I),178,Banks - Public Sector,58,Banks
+125,1626,Syndicate Bank,178,Banks - Public Sector,58,Banks
+126,1618,I O B,178,Banks - Public Sector,58,Banks
+127,1628,Corporation Bank,178,Banks - Public Sector,58,Banks
+128,1649,Axis Bank,201,Banks - Private Sector,58,Banks
+129,1650,HDFC Bank,201,Banks - Private Sector,58,Banks
+130,1651,RBL Bank,201,Banks - Private Sector,58,Banks
+131,1654,Federal Bank,201,Banks - Private Sector,58,Banks
+132,1652,Karnataka Bank,201,Banks - Private Sector,58,Banks
+133,1653,Yes Bank,201,Banks - Private Sector,58,Banks
+134,1627,S B T,178,Banks - Public Sector,58,Banks
+135,1648,Lak. Vilas Bank,201,Banks - Private Sector,58,Banks
+136,1647,City Union Bank,201,Banks - Private Sector,58,Banks
+137,1646,Kotak Mah. Bank,201,Banks - Private Sector,58,Banks
+138,1645,DCB Bank,201,Banks - Private Sector,58,Banks
+139,1643,ICICI Bank,201,Banks - Private Sector,58,Banks
+140,1642,Dhanlaxmi Bank,201,Banks - Private Sector,58,Banks
+141,1644,IDFC Bank,201,Banks - Private Sector,58,Banks
+142,1640,South Ind.Bank,201,Banks - Private Sector,58,Banks
+143,1629,Central Bank,178,Banks - Public Sector,58,Banks
+144,1630,Bank of Baroda,178,Banks - Public Sector,58,Banks
+145,1631,Bank of India,178,Banks - Public Sector,58,Banks
+146,1632,Canara Bank,178,Banks - Public Sector,58,Banks
+147,1633,Punjab Natl.Bank,178,Banks - Public Sector,58,Banks
+148,1641,Karur Vysya Bank,201,Banks - Private Sector,58,Banks
+149,1634,Oriental Bank,178,Banks - Public Sector,58,Banks
+150,1636,St Bk of Mysore,178,Banks - Public Sector,58,Banks
+151,1637,St Bk of India,178,Banks - Public Sector,58,Banks
+152,1638,St Bk of Bikaner,178,Banks - Public Sector,58,Banks
+153,1639,IndusInd Bank,201,Banks - Private Sector,58,Banks
+154,1635,Indian Bank,178,Banks - Public Sector,58,Banks
+155,1608,NRB Indl Bearing,216,Bearings - Medium / Small,71,Bearings
+156,1586,Vindhya Telelink,138,Cables - Telephone,29,Cables
+157,1584,Bhagyanagar Ind,138,Cables - Telephone,29,Cables
+158,1585,Sterlite Tech.,138,Cables - Telephone,29,Cables
+159,1587,CMI,138,Cables - Telephone,29,Cables
+160,1589,Surana Telecom,138,Cables - Telephone,29,Cables
+161,1597,KEI Inds.,57,Cables - Power - Large,29,Cables
+162,1588,Nicco Corpn.,138,Cables - Telephone,29,Cables
+163,1596,Paramount Comm.,227,Cables - Power - Medium / Small,29,Cables
+164,1599,Finolex Cables,57,Cables - Power - Large,29,Cables
+165,1595,Diamond Power,227,Cables - Power - Medium / Small,29,Cables
+166,1598,Universal Cables,57,Cables - Power - Large,29,Cables
+167,1593,Shilpi Cable,138,Cables - Telephone,29,Cables
+168,1592,T N Telecom.,138,Cables - Telephone,29,Cables
+169,1591,Aksh Optifibre,138,Cables - Telephone,29,Cables
+170,1590,Birla Cable,138,Cables - Telephone,29,Cables
+171,1594,Cords Cable,227,Cables - Power - Medium / Small,29,Cables
+172,1151,Triveni Turbine,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+173,1145,Swelect Energy,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+174,1150,Websol Energy,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+175,1149,NEPC India,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+176,1148,Surana Solar,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+177,1147,Birla Power Sol.,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+178,1146,TD Power Sys.,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+179,1144,Suzlon Energy,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+180,1152,Veto Switchgears,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+181,1142,Inox Wind,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+182,1141,HPL Electric,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+183,1140,Easun Reyrolle,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+184,1139,S & S Power Swit,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+185,1138,Eon Elect.,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+186,1137,Havells India,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+187,1136,A B B,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+188,1135,GE T&D India,52,Electric Equipment - Switchgears/Relays/Circuits,18,Capital Goods - Electrical Equipment
+189,1134,T R I L,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+190,1133,Volt.Transform.,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+191,1143,Honda Siel Power,25,Electric Equipment - Gensets / Turbines,18,Capital Goods - Electrical Equipment
+192,1153,Techno Elec.,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+193,34,K E C Intl.,167,Transmisson Line Towers / Equipment,18,Capital Goods - Electrical Equipment
+194,1155,Indosolar,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+195,30,Kalpataru Power,167,Transmisson Line Towers / Equipment,18,Capital Goods - Electrical Equipment
+196,31,BS,167,Transmisson Line Towers / Equipment,18,Capital Goods - Electrical Equipment
+197,32,Jyoti Structures,167,Transmisson Line Towers / Equipment,18,Capital Goods - Electrical Equipment
+198,33,Sujana Towers,167,Transmisson Line Towers / Equipment,18,Capital Goods - Electrical Equipment
+199,1132,ECE Inds.,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+200,35,Modern Malleable,167,Transmisson Line Towers / Equipment,18,Capital Goods - Electrical Equipment
+201,1170,Siemens,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+202,1169,B H E L,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+203,1168,Kirl. Electric,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+204,1167,GE Power,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+205,1166,Crompton Gr. Con,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+206,1165,Crompton Greaves,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+207,1164,W S Inds.,44,Electric Equipment - General - Large,18,Capital Goods - Electrical Equipment
+208,1163,Modern Insulator,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+209,1162,V-Guard Inds.,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+210,1161,Tarapur Trans,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+211,1160,Schneider Elect.,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+212,1159,Advance Meter.,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+213,1158,Igarashi Motors,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+214,1157,Asian Electronic,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+215,1156,Salzer Electron.,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+216,1154,Apar Inds.,94,Electric Equipment - General - Medium / Small,18,Capital Goods - Electrical Equipment
+217,1131,Bharat Bijlee,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+218,1092,A2Z Infra Engg.,124,Engineering - Heavy - General - Medium / Small,18,Capital Goods - Electrical Equipment
+219,1129,EMCO,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+220,1128,Ujaas Energy,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+221,1127,IMP Powers,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+222,762,Om Metals Infrap,131,Hydraulics,18,Capital Goods - Electrical Equipment
+223,1130,Indo Tech.Trans.,21,Electric Equipment - Transformers,18,Capital Goods - Electrical Equipment
+224,1083,Kabra Extrusion,145,Engineering - Heavy - Plastic Machinery,23,Capital Goods-Non Electrical Equipment
+225,1082,Pitti Lamination,192,Engineering - Light - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+226,1081,Electrotherm(I),192,Engineering - Light - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+227,1080,Mazda,192,Engineering - Light - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+228,1079,Hercules Hoists,192,Engineering - Light - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+229,1078,DE Nora India,192,Engineering - Light - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+230,1076,GEI Industrial,192,Engineering - Light - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+231,1073,VKS Projects,74,Engineering - Turnkey Services,23,Capital Goods-Non Electrical Equipment
+232,1071,Power Mech Proj.,74,Engineering - Turnkey Services,23,Capital Goods-Non Electrical Equipment
+233,1051,Swaraj Engines,68,Engines,23,Capital Goods-Non Electrical Equipment
+234,1052,Cummins India,68,Engines,23,Capital Goods-Non Electrical Equipment
+235,1050,Greaves Cotton,68,Engines,23,Capital Goods-Non Electrical Equipment
+236,1752,Grindwell Norton,32,Abrasives and Grinding Wheels,23,Capital Goods-Non Electrical Equipment
+237,857,Nitin Fire Prot.,273,Fire - Protection Equipment,23,Capital Goods-Non Electrical Equipment
+238,455,Thermax,248,Pollution Control Equipment,23,Capital Goods-Non Electrical Equipment
+239,456,Va Tech Wabag,248,Pollution Control Equipment,23,Capital Goods-Non Electrical Equipment
+240,761,Dynamatic Tech.,131,Hydraulics,23,Capital Goods-Non Electrical Equipment
+241,722,Premier,102,Machine Tools - Others,23,Capital Goods-Non Electrical Equipment
+242,721,Lokesh Mach.,102,Machine Tools - Others,23,Capital Goods-Non Electrical Equipment
+243,1056,Sanghvi Movers,74,Engineering - Turnkey Services,23,Capital Goods-Non Electrical Equipment
+244,1084,Windsor Machines,145,Engineering - Heavy - Plastic Machinery,23,Capital Goods-Non Electrical Equipment
+245,1086,Action Const.Eq.,49,Engineering - Heavy - Material Handling,23,Capital Goods-Non Electrical Equipment
+246,1087,Eimco Elecon(I),49,Engineering - Heavy - Material Handling,23,Capital Goods-Non Electrical Equipment
+247,1126,HEG,31,Electrodes - Graphites,23,Capital Goods-Non Electrical Equipment
+248,1125,Graphite India,31,Electrodes - Graphites,23,Capital Goods-Non Electrical Equipment
+249,1124,Ador Welding,143,Electrodes - Welding Equipment,23,Capital Goods-Non Electrical Equipment
+250,1123,Esab India,143,Electrodes - Welding Equipment,23,Capital Goods-Non Electrical Equipment
+251,414,Kirl. Brothers,90,Pumps,23,Capital Goods-Non Electrical Equipment
+252,415,KSB Pumps,90,Pumps,23,Capital Goods-Non Electrical Equipment
+253,416,Shakti Pumps,90,Pumps,23,Capital Goods-Non Electrical Equipment
+254,1102,Praj Inds.,93,Engineering - Heavy - General - Large,23,Capital Goods-Non Electrical Equipment
+255,1101,Texmaco Rail,93,Engineering - Heavy - General - Large,23,Capital Goods-Non Electrical Equipment
+256,1085,Tecpro Systems,49,Engineering - Heavy - Material Handling,23,Capital Goods-Non Electrical Equipment
+257,1100,Titagarh Wagons,93,Engineering - Heavy - General - Large,23,Capital Goods-Non Electrical Equipment
+258,1098,Manugraph India,93,Engineering - Heavy - General - Large,23,Capital Goods-Non Electrical Equipment
+259,1097,BEML Ltd,93,Engineering - Heavy - General - Large,23,Capital Goods-Non Electrical Equipment
+260,1096,UB Engg.,124,Engineering - Heavy - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+261,1095,Commercial Eng.,124,Engineering - Heavy - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+262,1094,Kalindee Rail,124,Engineering - Heavy - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+263,1093,Guj Apollo Inds,124,Engineering - Heavy - General - Medium / Small,23,Capital Goods-Non Electrical Equipment
+264,1091,TIL,49,Engineering - Heavy - Material Handling,23,Capital Goods-Non Electrical Equipment
+265,1090,Elecon Engg.Co,49,Engineering - Heavy - Material Handling,23,Capital Goods-Non Electrical Equipment
+266,1089,TRF,49,Engineering - Heavy - Material Handling,23,Capital Goods-Non Electrical Equipment
+267,1099,Walchan. Inds.,93,Engineering - Heavy - General - Large,23,Capital Goods-Non Electrical Equipment
+268,1049,Kirloskar Oil,68,Engines,23,Capital Goods-Non Electrical Equipment
+269,1753,Orient Abrasives,32,Abrasives and Grinding Wheels,23,Capital Goods-Non Electrical Equipment
+270,1475,Revathi Equipmnt,51,Compressors / Drilling Equipment,23,Capital Goods-Non Electrical Equipment
+271,1476,Ingersoll-Rand,51,Compressors / Drilling Equipment,23,Capital Goods-Non Electrical Equipment
+272,1477,Elgi Equipment,51,Compressors / Drilling Equipment,23,Capital Goods-Non Electrical Equipment
+273,1751,Carborundum Uni.,32,Abrasives and Grinding Wheels,23,Capital Goods-Non Electrical Equipment
+274,1750,Wendt India,32,Abrasives and Grinding Wheels,23,Capital Goods-Non Electrical Equipment
+275,999,Sundram Fasten.,59,Fasteners,19,"Castings, Forgings & Fastners"
+276,812,LGB Forge,270,Forgings - Medium / Small,19,"Castings, Forgings & Fastners"
+277,813,Ramkrishna Forg.,270,Forgings - Medium / Small,19,"Castings, Forgings & Fastners"
+278,814,Sh.Ganesh Forg.,270,Forgings - Medium / Small,19,"Castings, Forgings & Fastners"
+279,815,Hilton Met.Forg.,270,Forgings - Medium / Small,19,"Castings, Forgings & Fastners"
+280,816,Sanghvi Forg.,270,Forgings - Medium / Small,19,"Castings, Forgings & Fastners"
+281,817,Mahindra CIE,22,Forgings - Large,19,"Castings, Forgings & Fastners"
+282,819,Kalyani Forge,22,Forgings - Large,19,"Castings, Forgings & Fastners"
+283,1577,AIA Engg.,265,Castings - Steel / Alloy,19,"Castings, Forgings & Fastners"
+284,821,Metalyst Forg.,22,Forgings - Large,19,"Castings, Forgings & Fastners"
+285,1576,Nelcast,265,Castings - Steel / Alloy,19,"Castings, Forgings & Fastners"
+286,996,GKW,59,Fasteners,19,"Castings, Forgings & Fastners"
+287,997,Sterling Tools,59,Fasteners,19,"Castings, Forgings & Fastners"
+288,998,Lak. Prec. Screw,59,Fasteners,19,"Castings, Forgings & Fastners"
+289,818,Bharat Forge,22,Forgings - Large,19,"Castings, Forgings & Fastners"
+290,820,M M Forgings,22,Forgings - Large,19,"Castings, Forgings & Fastners"
+291,1578,Jayaswal Neco,50,Castings - Grey Iron,19,"Castings, Forgings & Fastners"
+292,1581,Electrost.Cast.,50,Castings - Grey Iron,19,"Castings, Forgings & Fastners"
+293,1580,Hinduja Foundrie,50,Castings - Grey Iron,19,"Castings, Forgings & Fastners"
+294,1579,Krishna Engg.,50,Castings - Grey Iron,19,"Castings, Forgings & Fastners"
+295,1563,JK Lakshmi Cem.,0,Cement - Major - North India,0,Cement
+296,1566,Century Textiles,0,Cement - Major - North India,0,Cement
+297,1550,Deccan Cements,46,Cement - Mini - South India,0,Cement
+298,1551,NCL Inds.,46,Cement - Mini - South India,0,Cement
+299,1552,Kakatiya Cement,46,Cement - Mini - South India,0,Cement
+300,1565,Guj. Sidhee Cem.,0,Cement - Major - North India,0,Cement
+301,1564,ACC,0,Cement - Major - North India,0,Cement
+302,1553,Sagar Cements,46,Cement - Mini - South India,0,Cement
+303,1554,Barak Valley,100,Cement - Mini - North India,0,Cement
+304,1555,OCL India,100,Cement - Mini - North India,0,Cement
+305,1556,K C P,3,Cement - Major - South India,0,Cement
+306,1557,The Ramco Cement,3,Cement - Major - South India,0,Cement
+307,1558,Andhra Cements,3,Cement - Major - South India,0,Cement
+308,1559,Orient Cement,3,Cement - Major - South India,0,Cement
+309,1560,Dalmia Bhar.,3,Cement - Major - South India,0,Cement
+310,1561,India Cements,3,Cement - Major - South India,0,Cement
+311,1562,Shree Cement,0,Cement - Major - North India,0,Cement
+312,1567,Prism Cement,0,Cement - Major - North India,0,Cement
+313,1568,UltraTech Cem.,0,Cement - Major - North India,0,Cement
+314,1572,Burnpur Cement,0,Cement - Major - North India,0,Cement
+315,1570,Ambuja Cem.,0,Cement - Major - North India,0,Cement
+316,1571,Sanghi Inds.,0,Cement - Major - North India,0,Cement
+317,1573,Heidelberg Cem.,0,Cement - Major - North India,0,Cement
+318,1574,Mangalam Cement,0,Cement - Major - North India,0,Cement
+319,1575,Birla Corpn.,0,Cement - Major - North India,0,Cement
+320,1569,J K Cements,0,Cement - Major - North India,0,Cement
+321,1548,BIGBLOC Const.,55,Cement Products,28,Cement - Products
+322,1547,Hil Ltd,55,Cement Products,28,Cement - Products
+323,1546,Indian Hume Pipe,55,Cement Products,28,Cement - Products
+324,1545,Star Ferro Cem.,55,Cement Products,28,Cement - Products
+325,1544,Everest Inds.,55,Cement Products,28,Cement - Products
+326,1543,Visaka Inds.,55,Cement Products,28,Cement - Products
+327,1549,Ramco Inds.,55,Cement Products,28,Cement - Products
+328,1540,Euro Ceramics,76,Ceramics - Sanitaryware / Others,45,Ceramic Products
+329,1538,Kajaria Ceramics,109,Ceramics - Tiles,45,Ceramic Products
+330,1537,Asian Granito,109,Ceramics - Tiles,45,Ceramic Products
+331,1536,Nitco,109,Ceramics - Tiles,45,Ceramic Products
+332,1535,Murudesh Ceramic,109,Ceramics - Tiles,45,Ceramic Products
+333,1542,Cera Sanitary.,76,Ceramics - Sanitaryware / Others,45,Ceramic Products
+334,1539,Orient Bell,109,Ceramics - Tiles,45,Ceramic Products
+335,1533,Decolight Cera.,109,Ceramics - Tiles,45,Ceramic Products
+336,1534,Regency Ceramics,109,Ceramics - Tiles,45,Ceramic Products
+337,1532,Somany Ceramics,109,Ceramics - Tiles,45,Ceramic Products
+338,1516,Thirumalai Chem.,118,Chemicals - Maleic Anhydride / Phthalic Anhydride,12,Chemicals
+339,1531,IOL Chemicals,162,Chemicals - Alcohol-based,12,Chemicals
+340,1530,India Glycols,162,Chemicals - Alcohol-based,12,Chemicals
+341,1529,Hind.Organ.Chem.,47,Chemicals - Benzene-based,12,Chemicals
+342,1528,Deepak Nitrite,47,Chemicals - Benzene-based,12,Chemicals
+343,1517,Tata Chemicals,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+344,1527,Sterling Biotech,188,Chemicals - Gelatine,12,Chemicals
+345,1524,Camlin Fine,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+346,1523,Shri Aster Silic,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+347,1522,Sharda Cropchem,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+348,1521,TECIL Chemical,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+349,1520,Sr.Rayala.Hypo,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+350,1518,Vivimed Labs.,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+351,1526,S H Kelkar & Co.,269,Chemicals - Inorganic - Large,12,Chemicals
+352,1519,Vishnu Chemicals,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+353,1525,Alkali Metals,116,Chemicals - Inorganic - Medium / Small,12,Chemicals
+354,748,Prem. Explosives,80,Industrial Explosives,12,Chemicals
+355,1737,Goa Carbon,64,Aluminium Chemicals,12,Chemicals
+356,1583,Oriental Carbon,101,Carbon Black,12,Chemicals
+357,1582,Phillips Carbon,101,Carbon Black,12,Chemicals
+358,723,GP Petroleums,84,Lubricants,12,Chemicals
+359,724,Gulf Oil Lubric.,84,Lubricants,12,Chemicals
+360,725,Tide Water Oil,84,Lubricants,12,Chemicals
+361,1515,I G Petrochems,118,Chemicals - Maleic Anhydride / Phthalic Anhydride,12,Chemicals
+362,726,Castrol India,84,Lubricants,12,Chemicals
+363,742,Refex Industries,82,Industrial Gas,12,Chemicals
+364,743,Linde India,82,Industrial Gas,12,Chemicals
+365,744,Inox Air Product,82,Industrial Gas,12,Chemicals
+366,745,Guj Fluorochem,82,Industrial Gas,12,Chemicals
+367,746,GOCL Corpn.,80,Industrial Explosives,12,Chemicals
+368,747,Solar Inds.,80,Industrial Explosives,12,Chemicals
+369,733,BASF India,18,Leather Chemicals,12,Chemicals
+370,1514,Aarti Inds.,56,Chemicals - Organic - Large,12,Chemicals
+371,1500,Jayant Agro Org.,40,Chemicals - Speciality - Large,12,Chemicals
+372,1512,GeeCee Vent.,56,Chemicals - Organic - Large,12,Chemicals
+373,1491,Foseco India,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+374,1486,Chemfab Alkalis,70,Chlor-Alkali,12,Chemicals
+375,1487,Guj Alkalies,70,Chlor-Alkali,12,Chemicals
+376,1513,Navin Fluo.Intl.,56,Chemicals - Organic - Large,12,Chemicals
+377,1179,Sh.Pushkar Chem.,275,Dyes - Intermediate,12,Chemicals
+378,1178,Chromatic India,223,Dyes - Reactive / Direct,12,Chemicals
+379,1177,Bodal Chemicals,223,Dyes - Reactive / Direct,12,Chemicals
+380,1176,Sudarshan Chem.,14,Dyes And Pigments - Large,12,Chemicals
+381,1175,Atul,14,Dyes And Pigments - Large,12,Chemicals
+382,1174,Vidhi Dyestuffs,250,Dyes And Pigments - Medium / Small,12,Chemicals
+383,1173,Asahi Songwon,250,Dyes And Pigments - Medium / Small,12,Chemicals
+384,1172,Bhageria Indust.,250,Dyes And Pigments - Medium / Small,12,Chemicals
+385,1171,Kiri Indus.,250,Dyes And Pigments - Medium / Small,12,Chemicals
+386,1488,Kanoria Chem.,70,Chlor-Alkali,12,Chemicals
+387,1489,Plastiblends (I),38,Chemicals - Speciality - Medium / Small,12,Chemicals
+388,1493,DIC India,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+389,1494,Gulshan Polyols,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+390,1492,Omkar Spl.Chem.,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+391,1496,Panama Petrochem,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+392,1511,Excel Inds.,56,Chemicals - Organic - Large,12,Chemicals
+393,1510,Alkyl Amines,56,Chemicals - Organic - Large,12,Chemicals
+394,366,GHCL,156,Soda Ash,12,Chemicals
+395,1509,Godrej Inds.,56,Chemicals - Organic - Large,12,Chemicals
+396,1508,Pidilite Inds.,56,Chemicals - Organic - Large,12,Chemicals
+397,1507,Punjab Chemicals,56,Chemicals - Organic - Large,12,Chemicals
+398,1506,Balaji Amines,86,Chemicals - Organic - Medium / Small,12,Chemicals
+399,1505,Jocil,86,Chemicals - Organic - Medium / Small,12,Chemicals
+400,1504,IVP,86,Chemicals - Organic - Medium / Small,12,Chemicals
+401,1495,Poddar Pigments,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+402,1503,ARCL Organics,276,Chemicals - Pentaerythritol / Formaldehyde,12,Chemicals
+403,1501,Clariant Chemica,40,Chemicals - Speciality - Large,12,Chemicals
+404,1499,Himadri Specialt,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+405,1498,Advance. Enzyme.,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+406,1497,Adi Finechem,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+407,1502,NOCIL,40,Chemicals - Speciality - Large,12,Chemicals
+408,1490,Fineotex Chem,38,Chemicals - Speciality - Medium / Small,12,Chemicals
+409,1468,Compucom Soft.,211,Computers - Education,62,Computer Education
+410,1474,CORE Education,211,Computers - Education,62,Computer Education
+411,1473,Aptech,211,Computers - Education,62,Computer Education
+412,1472,STG Lifecare,211,Computers - Education,62,Computer Education
+413,1471,NIIT,211,Computers - Education,62,Computer Education
+414,1466,Educomp Sol.,211,Computers - Education,62,Computer Education
+415,1467,Zee Learn,211,Computers - Education,62,Computer Education
+416,1469,Everonn Educat.,211,Computers - Education,62,Computer Education
+417,1470,Usha Mart. Edu.,211,Computers - Education,62,Computer Education
+418,1285,Prakash Constro.,96,Construction - Factories / Offices / Commercial,24,Construction
+419,1246,Vascon Engineers,175,Construction - Housing - Medium / Small,24,Construction
+420,1249,Ganesh Housing,175,Construction - Housing - Medium / Small,24,Construction
+421,1251,Art Nirman Ltd,175,Construction - Housing - Medium / Small,24,Construction
+422,1253,Dhanuka Realty,175,Construction - Housing - Medium / Small,24,Construction
+423,1262,Shaival Reality,175,Construction - Housing - Medium / Small,24,Construction
+424,1264,Vijay Shan. Bui.,175,Construction - Housing - Medium / Small,24,Construction
+425,1265,Pansari Develop.,175,Construction - Housing - Medium / Small,24,Construction
+426,1269,BSEL Infra.,175,Construction - Housing - Medium / Small,24,Construction
+427,1270,Parsvnath Devl.,153,Construction - Housing - Large,24,Construction
+428,1276,BDR Buildcon,96,Construction - Factories / Offices / Commercial,24,Construction
+429,1278,Era Infra Engg.,96,Construction - Factories / Offices / Commercial,24,Construction
+430,1316,Sadbhav Engg.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+431,1286,Mahindra Life.,96,Construction - Factories / Offices / Commercial,24,Construction
+432,1290,Man Infra,96,Construction - Factories / Offices / Commercial,24,Construction
+433,1305,KNR Construct.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+434,1306,C & C Constrn.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+435,1309,MBL Infrast,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+436,1311,GPT Infraproject,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+437,1312,Madhucon Proj.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+438,1313,SKIL Infrastr,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+439,1317,Sadbhav Infra.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+440,1319,Unity Infra.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+441,1321,C C C L,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+442,1325,ARSS Infra,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+443,1349,Punj Lloyd,62,Construction - Civil / Turnkey - Large,24,Construction
+444,1348,JP Associates,62,Construction - Civil / Turnkey - Large,24,Construction
+445,1347,Patel Engg.,62,Construction - Civil / Turnkey - Large,24,Construction
+446,1346,Hind.Construct.,62,Construction - Civil / Turnkey - Large,24,Construction
+447,1314,Gayatri Projects,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+448,1342,NCC,62,Construction - Civil / Turnkey - Large,24,Construction
+449,1339,Simplex Infra,62,Construction - Civil / Turnkey - Large,24,Construction
+450,1344,Ramky Infra,62,Construction - Civil / Turnkey - Large,24,Construction
+451,1337,PNC Infratech,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+452,1334,Welspun Enterp,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+453,1332,Pratibha Inds.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+454,1329,B.L.Kashyap,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+455,1328,ITD Cem,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+456,1327,RPP Infra Proj.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+457,1326,Intl Construct,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+458,1338,P B A Infra.,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+459,1315,Simplex Projects,33,Construction - Civil / Turnkey - Medium / Small,24,Construction
+460,1121,Honeywell Auto,164,Electronics - Instrumentation And Process Control,14,Consumer Durables
+461,1746,Fedders Lloyd,27,Air-conditioners,14,Consumer Durables
+462,1747,Lloyd Electric,27,Air-conditioners,14,Consumer Durables
+463,1748,Johnson Con. Hit,27,Air-conditioners,14,Consumer Durables
+464,1749,Blue Star,27,Air-conditioners,14,Consumer Durables
+465,1122,Delta Magnets,60,Electronics - Hard Ferrites,14,Consumer Durables
+466,1104,MIRC Electronics,212,Electronics - TV / Audio / VCR / VCP,14,Consumer Durables
+467,1120,Wellwin Inds.,164,Electronics - Instrumentation And Process Control,14,Consumer Durables
+468,1105,BPL,212,Electronics - TV / Audio / VCR / VCP,14,Consumer Durables
+469,1106,Videocon Inds.,212,Electronics - TV / Audio / VCR / VCP,14,Consumer Durables
+470,1107,Hind Rectifiers,181,Electronics - Power Devices / Equipment,14,Consumer Durables
+471,1108,JCT Electronics,158,Electronics - Picture Tubes - Colour,14,Consumer Durables
+472,1109,Samtel Color,158,Electronics - Picture Tubes - Colour,14,Consumer Durables
+473,1110,Euro Multivision,193,Electronics - Others,14,Consumer Durables
+474,1111,Bharat Electron,193,Electronics - Others,14,Consumer Durables
+475,1112,Kernex Microsys.,193,Electronics - Others,14,Consumer Durables
+476,1113,Nova Electro,193,Electronics - Others,14,Consumer Durables
+477,1183,Value Industries,16,Domestic Appliances - White Goods,14,Consumer Durables
+478,1184,Bajaj Electrical,16,Domestic Appliances - White Goods,14,Consumer Durables
+479,1185,Whirlpool India,16,Domestic Appliances - White Goods,14,Consumer Durables
+480,1186,Symphony,16,Domestic Appliances - White Goods,14,Consumer Durables
+481,1187,IFB Inds.,16,Domestic Appliances - White Goods,14,Consumer Durables
+482,1188,Butterfly Gan Ap,16,Domestic Appliances - White Goods,14,Consumer Durables
+483,1114,Genus Power,193,Electronics - Others,14,Consumer Durables
+484,1190,Orient Paper,89,Domestic Appliances - Fans,14,Consumer Durables
+485,1191,Polar Inds.,89,Domestic Appliances - Fans,14,Consumer Durables
+486,1192,Khaitan Elect.,89,Domestic Appliances - Fans,14,Consumer Durables
+487,1193,TTK Prestige,243,Domestic Appliances - Cookers / Others,14,Consumer Durables
+488,1115,MIC Electronics,193,Electronics - Others,14,Consumer Durables
+489,1116,Centum Electron,193,Electronics - Others,14,Consumer Durables
+490,1117,Atcom Technolog,193,Electronics - Others,14,Consumer Durables
+491,1118,PG Electro.,193,Electronics - Others,14,Consumer Durables
+492,1119,Zicom Electron.,193,Electronics - Others,14,Consumer Durables
+493,1103,Salora Intl.,212,Electronics - TV / Audio / VCR / VCP,14,Consumer Durables
+494,1189,Sujana Univ. Ind,89,Domestic Appliances - Fans,14,Consumer Durables
+495,0,KDDL Ltd,209,Watches & Accessories,14,Consumer Durables
+496,1,Opal Luxury,209,Watches & Accessories,14,Consumer Durables
+497,656,O N G C,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+498,658,Aban Offshore,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+499,663,Selan Expl. Tech,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+500,661,SVOGL Oil,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+501,662,Oil India,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+502,659,Hind.Oil Explor.,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+503,660,Cairn India,160,Oil Exploration / Allied Services,55,Crude Oil & Natural Gas
+504,1220,Tara Jewels,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+505,1219,Zodiac-JRD MKJ,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+506,1218,T B Z,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+507,1217,Goenka Diamond,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+508,1216,Renaissance Jew.,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+509,1223,Rajesh Exports,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+510,1224,Winsome Diamonds,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+511,1225,Vaibhav Global,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+512,1226,Gitanjali Gems,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+513,1227,Shree Gan.Jew.,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+514,1228,Titan Company,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+515,1229,Classic Diamonds,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+516,1230,Shrenuj & Co.,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+517,1231,C Mahendra Exp,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+518,1222,Goldiam Intl.,152,Diamond Cutting / Jewellery - Large,52,"Diamond, Gems and Jewellery"
+519,1221,PC Jeweller,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+520,1215,SRS,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+521,1214,Lypsa Gems,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+522,1213,Thangamayil Jew.,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+523,1212,Kanani Inds.,237,Diamond Cutting / Jewellery - Medium / Small,52,"Diamond, Gems and Jewellery"
+524,1194,Kesoram Inds.,88,Diversified - Mega,39,Diversified
+525,1202,Balmer Lawrie,139,Diversified - Large,39,Diversified
+526,1201,Hinduja Ventures,130,Diversified - Medium / Small,39,Diversified
+527,1200,Cimmco,130,Diversified - Medium / Small,39,Diversified
+528,1199,Nava Bharat Vent,130,Diversified - Medium / Small,39,Diversified
+529,1198,Andhra Sugars,130,Diversified - Medium / Small,39,Diversified
+530,1197,Gillanders Arbut,130,Diversified - Medium / Small,39,Diversified
+531,1195,Voltas,88,Diversified - Mega,39,Diversified
+532,1196,DCM Shriram,88,Diversified - Mega,39,Diversified
+533,1181,Indo National,122,Dry Cells,47,Dry cells
+534,1180,Eveready Inds.,122,Dry Cells,47,Dry cells
+535,1182,HBL Power System,122,Dry Cells,47,Dry cells
+536,364,Guj. Ambuja Exp,136,Solvent Extraction - Large,49,Edible Oil
+537,355,Ruchi Infrastr.,187,Solvent Extraction - Medium / Small,49,Edible Oil
+538,356,Rasoya Proteins,187,Solvent Extraction - Medium / Small,49,Edible Oil
+539,365,Agro Tech Foods.,136,Solvent Extraction - Large,49,Edible Oil
+540,353,Girdhari.Sugar,187,Solvent Extraction - Medium / Small,49,Edible Oil
+541,352,AVT Natural Prod,187,Solvent Extraction - Medium / Small,49,Edible Oil
+542,2,JVL Agro Indus,222,Vanaspati - Large,49,Edible Oil
+543,358,Gokul Refoils,136,Solvent Extraction - Large,49,Edible Oil
+544,359,Vimal Oil Foods,136,Solvent Extraction - Large,49,Edible Oil
+545,360,Gokul Agro,136,Solvent Extraction - Large,49,Edible Oil
+546,361,K S Oils,136,Solvent Extraction - Large,49,Edible Oil
+547,362,Ruchi Soya Inds.,136,Solvent Extraction - Large,49,Edible Oil
+548,363,Murli Industries,136,Solvent Extraction - Large,49,Edible Oil
+549,357,N K Inds.,187,Solvent Extraction - Medium / Small,49,Edible Oil
+550,354,Raj Oil Mills,187,Solvent Extraction - Medium / Small,49,Edible Oil
+551,676,Career Point,103,Miscellaneous - Medium / Small,70,Education
+552,693,MT Educare,103,Miscellaneous - Medium / Small,70,Education
+553,720,Emkay Taps & Cut,102,Machine Tools - Others,34,Engineering
+554,1068,McNally Bharat,74,Engineering - Turnkey Services,34,Engineering
+555,1077,Perfect Infraeng,192,Engineering - Light - General - Medium / Small,34,Engineering
+556,1053,Hind.Dorr-Oliver,74,Engineering - Turnkey Services,34,Engineering
+557,1088,Thejo Engg.,49,Engineering - Heavy - Material Handling,34,Engineering
+558,1024,Next Media.,221,Entertainment - Electronic Media,31,Entertainment
+559,1023,TV Vision,221,Entertainment - Electronic Media,31,Entertainment
+560,1022,Den Networks,221,Entertainment - Electronic Media,31,Entertainment
+561,1019,Ortel Commu.,221,Entertainment - Electronic Media,31,Entertainment
+562,1018,Raj Television,221,Entertainment - Electronic Media,31,Entertainment
+563,1017,DSJ Communicatn,221,Entertainment - Electronic Media,31,Entertainment
+564,1009,Dish TV,221,Entertainment - Electronic Media,31,Entertainment
+565,1012,Hathway Cable,221,Entertainment - Electronic Media,31,Entertainment
+566,1008,Siti Networks,221,Entertainment - Electronic Media,31,Entertainment
+567,1007,Sun TV Network,221,Entertainment - Electronic Media,31,Entertainment
+568,1005,Ent.Network,221,Entertainment - Electronic Media,31,Entertainment
+569,1003,Zee Entertainmen,221,Entertainment - Electronic Media,31,Entertainment
+570,1000,Sri Adhik. Bros.,221,Entertainment - Electronic Media,31,Entertainment
+571,1013,TV18 Broadcast,221,Entertainment - Electronic Media,31,Entertainment
+572,1025,Zee Media,221,Entertainment - Electronic Media,31,Entertainment
+573,1016,Broadcast Init.,221,Entertainment - Electronic Media,31,Entertainment
+574,1027,Shemaroo Entert.,66,Entertainment - Content Providers,31,Entertainment
+575,412,Wonderla Holiday,278,Recreation / Amusement Parks,31,Entertainment
+576,413,Adlabs Entert.,278,Recreation / Amusement Parks,31,Entertainment
+577,1048,Eros Intl.Media,66,Entertainment - Content Providers,31,Entertainment
+578,1047,BAG Films,66,Entertainment - Content Providers,31,Entertainment
+579,1046,KSS,66,Entertainment - Content Providers,31,Entertainment
+580,1045,Creative Eye,66,Entertainment - Content Providers,31,Entertainment
+581,1044,Mukta Arts,66,Entertainment - Content Providers,31,Entertainment
+582,1026,Cineline India,221,Entertainment - Electronic Media,31,Entertainment
+583,1043,Jain Studios,66,Entertainment - Content Providers,31,Entertainment
+584,1042,Inox Leisure,66,Entertainment - Content Providers,31,Entertainment
+585,1041,Radaan Media.,66,Entertainment - Content Providers,31,Entertainment
+586,1038,PVR,66,Entertainment - Content Providers,31,Entertainment
+587,1039,Lila Worldwide,66,Entertainment - Content Providers,31,Entertainment
+588,1037,Tips Industries,66,Entertainment - Content Providers,31,Entertainment
+589,1028,Prime Focus,66,Entertainment - Content Providers,31,Entertainment
+590,1030,Saregama India,66,Entertainment - Content Providers,31,Entertainment
+591,1031,Prit Nandy Comm.,66,Entertainment - Content Providers,31,Entertainment
+592,1032,Balaji Telefilms,66,Entertainment - Content Providers,31,Entertainment
+593,1033,Sh.Ashtavinayak,66,Entertainment - Content Providers,31,Entertainment
+594,1034,Crest Animation,66,Entertainment - Content Providers,31,Entertainment
+595,1040,Cinevista,66,Entertainment - Content Providers,31,Entertainment
+596,1035,Padmalaya Tele.,66,Entertainment - Content Providers,31,Entertainment
+597,1036,DQ Entertain.,66,Entertainment - Content Providers,31,Entertainment
+598,828,Nestle India,30,Food And Dairy Products - Multinational,22,FMCG
+599,827,Zydus Wellness,239,Food and Dairy Products - Indian - Medium / Small,22,FMCG
+600,826,Parag Milk Foods,239,Food and Dairy Products - Indian - Medium / Small,22,FMCG
+601,822,Umang Dairies,239,Food and Dairy Products - Indian - Medium / Small,22,FMCG
+602,824,Kwality,239,Food and Dairy Products - Indian - Medium / Small,22,FMCG
+603,823,Prabhat Dairy,239,Food and Dairy Products - Indian - Medium / Small,22,FMCG
+604,1233,Jyothy Lab.,149,Detergents / Intermediates,22,FMCG
+605,1232,T N Petro Prod.,149,Detergents / Intermediates,22,FMCG
+606,825,Aravali Inds.,239,Food and Dairy Products - Indian - Medium / Small,22,FMCG
+607,829,Neopolitan Pizza,30,Food And Dairy Products - Multinational,22,FMCG
+608,833,Vadilal Inds.,182,Food And Dairy Products - Indian - Large,22,FMCG
+609,831,Britannia Inds.,30,Food And Dairy Products - Multinational,22,FMCG
+610,851,KRBL,225,Food - Proccesing - Rice,22,FMCG
+611,850,REI Agro,225,Food - Proccesing - Rice,22,FMCG
+612,849,Kohinoor Foods,225,Food - Proccesing - Rice,22,FMCG
+613,848,Lakshmi Energy,225,Food - Proccesing - Rice,22,FMCG
+614,847,Usher Agro,225,Food - Proccesing - Rice,22,FMCG
+615,846,L T Foods,225,Food - Proccesing - Rice,22,FMCG
+616,845,Sanwaria Agro,225,Food - Proccesing - Rice,22,FMCG
+617,844,Sita Shree Food,274,Food - Processing - Atta / Rava / Sooji,22,FMCG
+618,843,SKM Egg Prod.,266,Food - Processing - Egg Powder,22,FMCG
+619,842,Manpasand Bever.,279,Food - Processing - Fruit Processing,22,FMCG
+620,841,Agro Dutch Inds.,230,Food - Processing - Mushrooms,22,FMCG
+621,838,Farmax India,214,Food - Processing - Others,22,FMCG
+622,836,ADF Foods,207,Food - Processing - Spices / Pickles,22,FMCG
+623,835,Heritage Foods,182,Food And Dairy Products - Indian - Large,22,FMCG
+624,834,Hatsun AgroProd.,182,Food And Dairy Products - Indian - Large,22,FMCG
+625,830,GlaxoSmith C H L,30,Food And Dairy Products - Multinational,22,FMCG
+626,839,Indo Biotech,214,Food - Processing - Others,22,FMCG
+627,837,Varun Beverages,214,Food - Processing - Others,22,FMCG
+628,603,Dabur India,232,Personal Care - Indian - Large,22,FMCG
+629,602,Marico,232,Personal Care - Indian - Large,22,FMCG
+630,592,Gillette India,39,Personal Care - Multinational,22,FMCG
+631,593,Colgate-Palm.,39,Personal Care - Multinational,22,FMCG
+632,595,Hind. Unilever,39,Personal Care - Multinational,22,FMCG
+633,596,Amar Remedies,268,Personal Care - Indian - Medium / Small,22,FMCG
+634,597,JHS Sven.Lab.,268,Personal Care - Indian - Medium / Small,22,FMCG
+635,598,Bajaj Corp,268,Personal Care - Indian - Medium / Small,22,FMCG
+636,599,Kaya Ltd,268,Personal Care - Indian - Medium / Small,22,FMCG
+637,600,Godrej Consumer,232,Personal Care - Indian - Large,22,FMCG
+638,594,P & G Hygiene,39,Personal Care - Multinational,22,FMCG
+639,601,Emami,232,Personal Care - Indian - Large,22,FMCG
+640,979,Deepak Fert.,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+641,980,G N F C,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+642,988,Zuari Agro Chem.,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+643,987,Zuari Global,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+644,985,Madras Fert.,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+645,984,Agro Phos,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+646,983,G S F C,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+647,982,Coromandel Inter,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+648,986,Mangalore Chem.,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+649,971,M B Agro Prod.,261,Fertilizers - Phosphatic - Single Super Phosphate,25,Fertilizers
+650,972,Aries Agro,261,Fertilizers - Phosphatic - Single Super Phosphate,25,Fertilizers
+651,973,Natl.Fertilizer,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+652,974,Good Value Mktg,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+653,978,Nagarjuna Fert.,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+654,975,S P I C,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+655,976,F A C T,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+656,981,Chambal Fert.,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+657,977,R C F,42,Fertilizers - Nitrogenous / Phosphatic,25,Fertilizers
+658,893,Shri.City Union.,255,Finance - Leasing And Diversified,13,Finance
+659,892,SREI Infra. Fin.,58,Finance - Medium,13,Finance
+660,891,First Leasing Co,58,Finance - Medium,13,Finance
+661,888,Cons. Finvest,133,Finance - Small,13,Finance
+662,889,Bajaj Fin.,58,Finance - Medium,13,Finance
+663,887,Indl. Inv. Trust,133,Finance - Small,13,Finance
+664,886,HB Stockholdings,133,Finance - Small,13,Finance
+665,894,Lak. Fin. & Indl,255,Finance - Leasing And Diversified,13,Finance
+666,890,Transwar.Fin.,58,Finance - Medium,13,Finance
+667,895,Cholaman.Inv.&Fn,113,Finance - Large,13,Finance
+668,905,Naga Dhunseri,15,Finance - Investment / Others,13,Finance
+669,897,Sundaram Finance,113,Finance - Large,13,Finance
+670,898,Shriram Trans.,113,Finance - Large,13,Finance
+671,899,VLS Finance,113,Finance - Large,13,Finance
+672,900,Bajaj Finserv,15,Finance - Investment / Others,13,Finance
+673,901,Bajaj Holdings,15,Finance - Investment / Others,13,Finance
+674,902,BLB,15,Finance - Investment / Others,13,Finance
+675,904,Indo Thai Sec.,15,Finance - Investment / Others,13,Finance
+676,906,Jindal Poly Inve,15,Finance - Investment / Others,13,Finance
+677,907,Nahar Capital,15,Finance - Investment / Others,13,Finance
+678,885,Blue Chip India,133,Finance - Small,13,Finance
+679,896,Reliance Capital,113,Finance - Large,13,Finance
+680,884,TCI Finance,133,Finance - Small,13,Finance
+681,868,Motor & Gen Fin,133,Finance - Small,13,Finance
+682,882,Keynote Corp.,133,Finance - Small,13,Finance
+683,858,Tour. Fin. Corp.,224,Finance - Term-Lending Institutions,13,Finance
+684,859,Power Fin.Corpn.,224,Finance - Term-Lending Institutions,13,Finance
+685,860,IFCI,224,Finance - Term-Lending Institutions,13,Finance
+686,861,Rural Elec.Corp.,224,Finance - Term-Lending Institutions,13,Finance
+687,862,Manappuram Fin.,133,Finance - Small,13,Finance
+688,863,NBI Indl. Fin.,133,Finance - Small,13,Finance
+689,864,Muthoot Cap.Serv,133,Finance - Small,13,Finance
+690,865,Lloyds Finance,133,Finance - Small,13,Finance
+691,866,Hybrid Financial,133,Finance - Small,13,Finance
+692,867,Nalwa Sons Invst,133,Finance - Small,13,Finance
+693,908,STEL Holdings,15,Finance - Investment / Others,13,Finance
+694,869,Maha Rashtra Apx,133,Finance - Small,13,Finance
+695,870,Guj. Lease Fin.,133,Finance - Small,13,Finance
+696,871,Times Guaranty,133,Finance - Small,13,Finance
+697,872,21st Cent. Mgmt.,133,Finance - Small,13,Finance
+698,873,Arman Financial,133,Finance - Small,13,Finance
+699,874,Alankit,133,Finance - Small,13,Finance
+700,875,ICDS,133,Finance - Small,13,Finance
+701,877,Autoriders Fin.,133,Finance - Small,13,Finance
+702,878,Satin Creditcare,133,Finance - Small,13,Finance
+703,879,DCM Financial,133,Finance - Small,13,Finance
+704,880,SE Investments,133,Finance - Small,13,Finance
+705,881,Prime Securities,133,Finance - Small,13,Finance
+706,883,IL&FS Inv.Manag.,133,Finance - Small,13,Finance
+707,909,Nagreeka Cap.,15,Finance - Investment / Others,13,Finance
+708,903,SIL Investments,15,Finance - Investment / Others,13,Finance
+709,911,Summit Sec.,15,Finance - Investment / Others,13,Finance
+710,945,PNB Gilts,15,Finance - Investment / Others,13,Finance
+711,946,Tata Inv.Corpn.,15,Finance - Investment / Others,13,Finance
+712,947,PTC India Fin,15,Finance - Investment / Others,13,Finance
+713,948,Equitas Holdings,15,Finance - Investment / Others,13,Finance
+714,949,Rane Holdings,15,Finance - Investment / Others,13,Finance
+715,950,ATN Intl.,15,Finance - Investment / Others,13,Finance
+716,951,Religare Enterp.,15,Finance - Investment / Others,13,Finance
+717,952,Welspun Investme,15,Finance - Investment / Others,13,Finance
+718,953,Kalyani Invest.,15,Finance - Investment / Others,13,Finance
+719,954,BF Investment,15,Finance - Investment / Others,13,Finance
+720,955,Crest Ventures,15,Finance - Investment / Others,13,Finance
+721,956,Netwrk.18 Media,15,Finance - Investment / Others,13,Finance
+722,957,MASK INVESTMENTS,15,Finance - Investment / Others,13,Finance
+723,958,GRUH Finance,172,Finance - Housing - Medium / Small,13,Finance
+724,959,PNB Housing,172,Finance - Housing - Medium / Small,13,Finance
+725,960,Can Fin Homes,172,Finance - Housing - Medium / Small,13,Finance
+726,961,GIC Housing Fin,172,Finance - Housing - Medium / Small,13,Finance
+727,962,Repco Home Fin,172,Finance - Housing - Medium / Small,13,Finance
+728,963,Coral India Fin.,172,Finance - Housing - Medium / Small,13,Finance
+729,964,Dewan Hsg. Fin.,72,Finance - Housing - Large,13,Finance
+730,965,India Info.Hou.,72,Finance - Housing - Large,13,Finance
+731,966,LIC Housing Fin.,72,Finance - Housing - Large,13,Finance
+732,967,Indiabulls Hous.,72,Finance - Housing - Large,13,Finance
+733,968,H D F C,72,Finance - Housing - Large,13,Finance
+734,969,Magma Fincorp,141,Finance - Equipment - Leasing & Maintenance,13,Finance
+735,970,Williamson Magor,141,Finance - Equipment - Leasing & Maintenance,13,Finance
+736,383,Ausom Enter.,205,Securities/Commodities Trading Services,13,Finance
+737,943,I D F C,15,Finance - Investment / Others,13,Finance
+738,910,Pan India Corpor,15,Finance - Investment / Others,13,Finance
+739,942,Pilani Invest.,15,Finance - Investment / Others,13,Finance
+740,940,Pneumatic Holdin,15,Finance - Investment / Others,13,Finance
+741,912,Ujjivan Fin.Ser.,15,Finance - Investment / Others,13,Finance
+742,913,Microsec Fin,15,Finance - Investment / Others,13,Finance
+743,914,McDowell Hold.,15,Finance - Investment / Others,13,Finance
+744,915,JSW Holdings,15,Finance - Investment / Others,13,Finance
+745,916,Silicon Valley,15,Finance - Investment / Others,13,Finance
+746,917,Max India,15,Finance - Investment / Others,13,Finance
+747,918,Max Financial,15,Finance - Investment / Others,13,Finance
+748,920,Anandam Rubber,15,Finance - Investment / Others,13,Finance
+749,921,Inventure Grow.,15,Finance - Investment / Others,13,Finance
+750,922,Motil.Oswal.Fin.,15,Finance - Investment / Others,13,Finance
+751,923,Stampede Cap.,15,Finance - Investment / Others,13,Finance
+752,924,Bharat Financial,15,Finance - Investment / Others,13,Finance
+753,925,Capital First,15,Finance - Investment / Others,13,Finance
+754,926,Muthoot Finance,15,Finance - Investment / Others,13,Finance
+755,927,Vardhman Hold.,15,Finance - Investment / Others,13,Finance
+756,928,Indiabulls Vent.,15,Finance - Investment / Others,13,Finance
+757,929,JM Financial,15,Finance - Investment / Others,13,Finance
+758,930,L&T Fin.Holdings,15,Finance - Investment / Others,13,Finance
+759,931,M & M Fin. Serv.,15,Finance - Investment / Others,13,Finance
+760,932,Onelife Capital,15,Finance - Investment / Others,13,Finance
+761,933,Viji Finance,15,Finance - Investment / Others,13,Finance
+762,934,Weizmann For.,15,Finance - Investment / Others,13,Finance
+763,935,Dhunseri Invest.,15,Finance - Investment / Others,13,Finance
+764,936,Khandwala Sec.,15,Finance - Investment / Others,13,Finance
+765,937,Edelweiss.Fin.,15,Finance - Investment / Others,13,Finance
+766,938,Kirloskar Indus.,15,Finance - Investment / Others,13,Finance
+767,939,Wealth First Por,15,Finance - Investment / Others,13,Finance
+768,941,Oswal Agro Mills,15,Finance - Investment / Others,13,Finance
+769,919,Almondz Global,15,Finance - Investment / Others,13,Finance
+770,876,Capri Global,133,Finance - Small,13,Finance
+771,806,Mahanagar Gas,259,Gas Distribution,66,Gas Distribution
+772,807,Deep Industries,259,Gas Distribution,66,Gas Distribution
+773,808,Indraprastha Gas,259,Gas Distribution,66,Gas Distribution
+774,809,GAIL (India),259,Gas Distribution,66,Gas Distribution
+775,811,Petronet LNG,259,Gas Distribution,66,Gas Distribution
+776,803,Hind.Natl.Glass,246,Glass - Containers / Others,54,Glass & Glass Products
+777,804,Banaras Beads,246,Glass - Containers / Others,54,Glass & Glass Products
+778,805,La Opala RG,246,Glass - Containers / Others,54,Glass & Glass Products
+779,802,Sejal Glass,155,Glass - Sheet / Float,54,Glass & Glass Products
+780,801,Asahi India Glas,155,Glass - Sheet / Float,54,Glass & Glass Products
+781,718,Opto Circuits,267,Medical Equipment,48,Healthcare
+782,794,Lotus Eye Care,129,Hospitals / Medical Services,48,Healthcare
+783,793,Dr Lal Pathlabs,129,Hospitals / Medical Services,48,Healthcare
+784,792,Thyrocare Tech.,129,Hospitals / Medical Services,48,Healthcare
+785,791,Safire Global Me,129,Hospitals / Medical Services,48,Healthcare
+786,790,Apollo Hospitals,129,Hospitals / Medical Services,48,Healthcare
+787,788,Fortis Health.,129,Hospitals / Medical Services,48,Healthcare
+788,789,Health.Global,129,Hospitals / Medical Services,48,Healthcare
+789,786,Narayana Hrudaya,129,Hospitals / Medical Services,48,Healthcare
+790,719,Poly Medicure,262,Medical Accessories / Disposables,48,Healthcare
+791,787,Indrapr.Medical,129,Hospitals / Medical Services,48,Healthcare
+792,770,Advani Hotels.,161,Hotels - Small,7,Hotels & Restaurants
+793,765,Asian Hotels (E),161,Hotels - Small,7,Hotels & Restaurants
+794,764,Viceroy Hotels,161,Hotels - Small,7,Hotels & Restaurants
+795,763,Hotel Rugby,161,Hotels - Small,7,Hotels & Restaurants
+796,766,Suman Motels,161,Hotels - Small,7,Hotels & Restaurants
+797,767,Apollo Sindoori,161,Hotels - Small,7,Hotels & Restaurants
+798,771,Blu.Coast Hotel.,161,Hotels - Small,7,Hotels & Restaurants
+799,769,EIH Assoc.Hotels,161,Hotels - Small,7,Hotels & Restaurants
+800,780,The Byke Hospi.,99,Hotels - Medium,7,Hotels & Restaurants
+801,772,Kamat Hotels,161,Hotels - Small,7,Hotels & Restaurants
+802,768,Coffee Day Enter,161,Hotels - Small,7,Hotels & Restaurants
+803,773,Mahindra Holiday,236,Hotels - Resorts,7,Hotels & Restaurants
+804,774,Country Club Hos,236,Hotels - Resorts,7,Hotels & Restaurants
+805,785,EIH,8,Hotels - Large,7,Hotels & Restaurants
+806,784,Indian Hotels,8,Hotels - Large,7,Hotels & Restaurants
+807,783,Hotel Leela Ven.,8,Hotels - Large,7,Hotels & Restaurants
+808,782,Asian Hotels (N),8,Hotels - Large,7,Hotels & Restaurants
+809,781,Royal Orch.Hotel,99,Hotels - Medium,7,Hotels & Restaurants
+810,775,Asian Hotels (W),99,Hotels - Medium,7,Hotels & Restaurants
+811,776,TGB Banquets,99,Hotels - Medium,7,Hotels & Restaurants
+812,779,Oriental Hotels,99,Hotels - Medium,7,Hotels & Restaurants
+813,778,Speciality Rest.,99,Hotels - Medium,7,Hotels & Restaurants
+814,777,TajGVK Hotels,99,Hotels - Medium,7,Hotels & Restaurants
+815,1464,MRO-TEK Realty,154,Computers - Hardware - Large,53,IT - Hardware
+816,1458,Moser Baer (I),177,Computers - Peripherals / Accessories,53,IT - Hardware
+817,1459,TVS Elec.,177,Computers - Peripherals / Accessories,53,IT - Hardware
+818,1457,Cerebra Integr.,177,Computers - Peripherals / Accessories,53,IT - Hardware
+819,1465,D-Link India,154,Computers - Hardware - Large,53,IT - Hardware
+820,1462,HCL Infosystems,154,Computers - Hardware - Large,53,IT - Hardware
+821,1460,Redington India,177,Computers - Peripherals / Accessories,53,IT - Hardware
+822,1456,Compuage Info.,177,Computers - Peripherals / Accessories,53,IT - Hardware
+823,1461,ORG Informatics,179,Computers - Hardware - Medium / Small,53,IT - Hardware
+824,1463,Smartlink Netwr.,154,Computers - Hardware - Large,53,IT - Hardware
+825,1358,Zensar Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+826,1429,Tanla Solutions,79,Computers - Software - Medium / Small,37,IT - Software
+827,1430,Accelya Kale,79,Computers - Software - Medium / Small,37,IT - Software
+828,1431,Aurionpro Sol.,79,Computers - Software - Medium / Small,37,IT - Software
+829,1432,Tata Elxsi,79,Computers - Software - Medium / Small,37,IT - Software
+830,1433,Accel Frontline,79,Computers - Software - Medium / Small,37,IT - Software
+831,1434,Quess Corp,79,Computers - Software - Medium / Small,37,IT - Software
+832,1435,Edserv Softsys.,79,Computers - Software - Medium / Small,37,IT - Software
+833,1436,Spanco Ltd,79,Computers - Software - Medium / Small,37,IT - Software
+834,1437,Taksheel Sol.,79,Computers - Software - Medium / Small,37,IT - Software
+835,1438,Prithvi Info.,79,Computers - Software - Medium / Small,37,IT - Software
+836,1439,Dynacons Sys.,79,Computers - Software - Medium / Small,37,IT - Software
+837,1440,Ducon Tech,79,Computers - Software - Medium / Small,37,IT - Software
+838,1441,Take Solutions,79,Computers - Software - Medium / Small,37,IT - Software
+839,1428,Quick Heal,79,Computers - Software - Medium / Small,37,IT - Software
+840,1442,TCS,127,Computers - Software - Large,37,IT - Software
+841,1380,Onward Technolog,79,Computers - Software - Medium / Small,37,IT - Software
+842,1379,Omnitech Info.,79,Computers - Software - Medium / Small,37,IT - Software
+843,1378,Sonata Software,79,Computers - Software - Medium / Small,37,IT - Software
+844,1377,Nucleus Soft.,79,Computers - Software - Medium / Small,37,IT - Software
+845,1444,MphasiS,127,Computers - Software - Large,37,IT - Software
+846,1376,Northgate Com,79,Computers - Software - Medium / Small,37,IT - Software
+847,1394,Micro Techno.,79,Computers - Software - Medium / Small,37,IT - Software
+848,1393,Megasoft,79,Computers - Software - Medium / Small,37,IT - Software
+849,1357,Zenith Infotech,79,Computers - Software - Medium / Small,37,IT - Software
+850,1412,Persistent Sys,79,Computers - Software - Medium / Small,37,IT - Software
+851,1411,Cybertech Sys.,79,Computers - Software - Medium / Small,37,IT - Software
+852,1410,Visu Intl.,79,Computers - Software - Medium / Small,37,IT - Software
+853,1409,Teledata Tech,79,Computers - Software - Medium / Small,37,IT - Software
+854,1443,Infosys,127,Computers - Software - Large,37,IT - Software
+855,1427,R S Software (I),79,Computers - Software - Medium / Small,37,IT - Software
+856,1426,IOL Netcom,79,Computers - Software - Medium / Small,37,IT - Software
+857,1425,SQS India BFSI,79,Computers - Software - Medium / Small,37,IT - Software
+858,1350,Blue Star Info.,79,Computers - Software - Medium / Small,37,IT - Software
+859,1351,Sasken Comm.Tec.,79,Computers - Software - Medium / Small,37,IT - Software
+860,1352,Spectacle Ventur,79,Computers - Software - Medium / Small,37,IT - Software
+861,1353,63 Moons Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+862,1354,Zylog Systems,79,Computers - Software - Medium / Small,37,IT - Software
+863,1355,InfoBeans Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+864,1356,Intellect Design,79,Computers - Software - Medium / Small,37,IT - Software
+865,1396,Mindteck (India),79,Computers - Software - Medium / Small,37,IT - Software
+866,1395,Allied Digital,79,Computers - Software - Medium / Small,37,IT - Software
+867,1455,Information Tech,213,Computers - Software - Converts,37,IT - Software
+868,1454,Netvista Inform,213,Computers - Software - Converts,37,IT - Software
+869,1453,Helios Matheson,213,Computers - Software - Converts,37,IT - Software
+870,1452,ICSA (India),213,Computers - Software - Converts,37,IT - Software
+871,1413,Kellton Tech,79,Computers - Software - Medium / Small,37,IT - Software
+872,1451,LCC Infotech,213,Computers - Software - Converts,37,IT - Software
+873,1450,Vakrangee,213,Computers - Software - Converts,37,IT - Software
+874,1384,FCS Software,79,Computers - Software - Medium / Small,37,IT - Software
+875,1383,Hinduja Global,79,Computers - Software - Medium / Small,37,IT - Software
+876,1382,Lycos Internet,79,Computers - Software - Medium / Small,37,IT - Software
+877,1381,L & T Infotech,79,Computers - Software - Medium / Small,37,IT - Software
+878,1416,IZMO,79,Computers - Software - Medium / Small,37,IT - Software
+879,1417,Cyient,79,Computers - Software - Medium / Small,37,IT - Software
+880,1418,Rolta India,79,Computers - Software - Medium / Small,37,IT - Software
+881,1419,Quintegra Soln.,79,Computers - Software - Medium / Small,37,IT - Software
+882,1420,Cura Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+883,1421,KPIT Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+884,1422,Cranes Software,79,Computers - Software - Medium / Small,37,IT - Software
+885,1423,KLG Systel,79,Computers - Software - Medium / Small,37,IT - Software
+886,1424,Computech Intl.,79,Computers - Software - Medium / Small,37,IT - Software
+887,1408,AcroPetal Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+888,1407,Trigyn Techno.,79,Computers - Software - Medium / Small,37,IT - Software
+889,1401,NIIT Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+890,1373,MPS Infotecnics,79,Computers - Software - Medium / Small,37,IT - Software
+891,749,Tricom India,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+892,750,Xchanging Sol.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+893,751,R Systems Intl.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+894,752,eClerx Services,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+895,753,Firstsour.Solu.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+896,754,Datamatics Glob.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+897,755,BLS Internat.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+898,756,Allsec Tech.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+899,757,Intrasoft Tech.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+900,1386,Palred Technolog,79,Computers - Software - Medium / Small,37,IT - Software
+901,1389,Agnite Educ.,79,Computers - Software - Medium / Small,37,IT - Software
+902,1446,HCL Technologies,127,Computers - Software - Large,37,IT - Software
+903,1390,Net 4 India,79,Computers - Software - Medium / Small,37,IT - Software
+904,1391,Maars Soft.Intl.,79,Computers - Software - Medium / Small,37,IT - Software
+905,1397,Mindtree,79,Computers - Software - Medium / Small,37,IT - Software
+906,1398,Mastek,79,Computers - Software - Medium / Small,37,IT - Software
+907,760,HOV Services,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+908,759,Dhanus Tech.,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+909,758,Eider Infotech,263,IT Enabled Services / Business Process Outsourcing,37,IT - Software
+910,1372,Fourth Dimension,79,Computers - Software - Medium / Small,37,IT - Software
+911,1371,Cigniti Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+912,1370,Melstar Info.,79,Computers - Software - Medium / Small,37,IT - Software
+913,1369,Sphere Global,79,Computers - Software - Medium / Small,37,IT - Software
+914,1399,Goldstone Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+915,1415,Ramco Systems,79,Computers - Software - Medium / Small,37,IT - Software
+916,1400,Glodyne Techno.,79,Computers - Software - Medium / Small,37,IT - Software
+917,1402,Geometric,79,Computers - Software - Medium / Small,37,IT - Software
+918,1359,Zen Technologies,79,Computers - Software - Medium / Small,37,IT - Software
+919,1360,Infibeam Incorp.,79,Computers - Software - Medium / Small,37,IT - Software
+920,1361,Bharatiya Glob.,79,Computers - Software - Medium / Small,37,IT - Software
+921,1362,Infinite Comp,79,Computers - Software - Medium / Small,37,IT - Software
+922,1406,Hexaware Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+923,1445,Oracle Fin.Serv.,127,Computers - Software - Large,37,IT - Software
+924,1447,Wipro,127,Computers - Software - Large,37,IT - Software
+925,1363,Bartronics India,79,Computers - Software - Medium / Small,37,IT - Software
+926,1364,Cambridge Tech.,79,Computers - Software - Medium / Small,37,IT - Software
+927,1365,8K Miles,79,Computers - Software - Medium / Small,37,IT - Software
+928,1366,Subex,79,Computers - Software - Medium / Small,37,IT - Software
+929,1367,California Soft.,79,Computers - Software - Medium / Small,37,IT - Software
+930,1375,GI Engg.Sol.,79,Computers - Software - Medium / Small,37,IT - Software
+931,1448,Tech Mahindra,127,Computers - Software - Large,37,IT - Software
+932,1449,Polaris Consulta,127,Computers - Software - Large,37,IT - Software
+933,1387,Panoramic Univ.,79,Computers - Software - Medium / Small,37,IT - Software
+934,1374,Aftek,79,Computers - Software - Medium / Small,37,IT - Software
+935,1385,Excel Infoways,79,Computers - Software - Medium / Small,37,IT - Software
+936,1388,Saksoft,79,Computers - Software - Medium / Small,37,IT - Software
+937,1368,3i Infotech,79,Computers - Software - Medium / Small,37,IT - Software
+938,1405,Genesys Intl.,79,Computers - Software - Medium / Small,37,IT - Software
+939,1404,Geodesic,79,Computers - Software - Medium / Small,37,IT - Software
+940,1403,Majesco,79,Computers - Software - Medium / Small,37,IT - Software
+941,1392,GSS Info.,79,Computers - Software - Medium / Small,37,IT - Software
+942,1414,AXISCADES Engg.,79,Computers - Software - Medium / Small,37,IT - Software
+943,1063,Jaihind Projects,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+944,1307,Noida Tollbridg.,33,Construction - Civil / Turnkey - Medium / Small,30,Infrastructure Developers & Operators
+945,1064,Technofab Engg.,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+946,1065,GVK Power Infra.,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+947,1066,Atlanta,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+948,1067,Mukand Engineers,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+949,1069,IL&FS Transport,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+950,1070,Gammon Infra.,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+951,1060,Engineers India,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+952,1059,Shriram EPC,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+953,1058,L&T Technology,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+954,1057,Petron Engg,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+955,1055,Ashoka Buildcon,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+956,1054,GMR Infra.,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+957,1072,Rel. Indl. Infra,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+958,1074,Sunil Hitech,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+959,1075,Supreme Infra.,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+960,1062,Larsen & Toubro,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+961,1340,Jaypee Infratec.,62,Construction - Civil / Turnkey - Large,30,Infrastructure Developers & Operators
+962,1335,IL&FS Engg.,33,Construction - Civil / Turnkey - Medium / Small,30,Infrastructure Developers & Operators
+963,1333,Tantia Constr.,33,Construction - Civil / Turnkey - Medium / Small,30,Infrastructure Developers & Operators
+964,1324,IRB Infra.Devl.,33,Construction - Civil / Turnkey - Medium / Small,30,Infrastructure Developers & Operators
+965,1320,HEC Infra Proj.,33,Construction - Civil / Turnkey - Medium / Small,30,Infrastructure Developers & Operators
+966,1304,MEP Infrast.,33,Construction - Civil / Turnkey - Medium / Small,30,Infrastructure Developers & Operators
+967,1061,BGR Energy Sys.,74,Engineering - Turnkey Services,30,Infrastructure Developers & Operators
+968,1341,IVRCL,62,Construction - Civil / Turnkey - Large,30,Infrastructure Developers & Operators
+969,685,Adani Ports,103,Miscellaneous - Medium / Small,30,Infrastructure Developers & Operators
+970,1345,Gammon India,62,Construction - Civil / Turnkey - Large,30,Infrastructure Developers & Operators
+971,944,ICICI Pru Life,15,Finance - Investment / Others,69,Insurance
+972,735,Relaxo Footwear,19,Leather / Synthetic Footware - Large,16,Leather
+973,734,Mirza Internatio,19,Leather / Synthetic Footware - Large,16,Leather
+974,732,Bhartiya Intl.,244,Leather Products - Garments,16,Leather
+975,731,Namaste Exports,219,Leather Products - Integrated,16,Leather
+976,730,Superhouse Ltd,183,Leather Products - Others,16,Leather
+977,729,Crew B.O.S.Prod.,183,Leather Products - Others,16,Leather
+978,737,Liberty Shoes,19,Leather / Synthetic Footware - Large,16,Leather
+979,736,Bata India,19,Leather / Synthetic Footware - Large,16,Leather
+980,728,Sreeleathers,183,Leather Products - Others,16,Leather
+981,17,Snowman Logistic,146,Transport - Road,50,Logistics
+982,1241,Gati,241,Couriers,50,Logistics
+983,1242,Blue Dart Exp.,241,Couriers,50,Logistics
+984,16,Globe Intl. Car.,146,Transport - Road,50,Logistics
+985,692,Gateway Distr.,103,Miscellaneous - Medium / Small,50,Logistics
+986,14,Arshiya,146,Transport - Road,50,Logistics
+987,15,North Eastn.Car.,146,Transport - Road,50,Logistics
+988,20,Patel Integrated,146,Transport - Road,50,Logistics
+989,24,Aqua Logistics,146,Transport - Road,50,Logistics
+990,23,Rajas. Petro Syn,146,Transport - Road,50,Logistics
+991,22,Allcargo Logist.,146,Transport - Road,50,Logistics
+992,18,VRL Logistics,146,Transport - Road,50,Logistics
+993,21,Container Corpn.,146,Transport - Road,50,Logistics
+994,13,Transport Corp.,146,Transport - Road,50,Logistics
+995,19,Sical Logistics,146,Transport - Road,50,Logistics
+996,1021,NDTV,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+997,1020,Hindustan Media,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+998,1015,Jagran Prakashan,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+999,1014,H T Media,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+1000,1011,D C Holdings,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+1001,1010,Sambhaav Media,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+1002,1004,D B Corp,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+1003,427,Sundaram Multi.,117,Printing & Stationery,46,Media - Print/Television/Radio
+1004,1001,UFO Moviez,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+1005,426,Infomedia Press,117,Printing & Stationery,46,Media - Print/Television/Radio
+1006,425,Navneet Educat.,117,Printing & Stationery,46,Media - Print/Television/Radio
+1007,424,Blue Bird (I),117,Printing & Stationery,46,Media - Print/Television/Radio
+1008,422,Repro India,117,Printing & Stationery,46,Media - Print/Television/Radio
+1009,421,Antarctica,117,Printing & Stationery,46,Media - Print/Television/Radio
+1010,1002,T.V. Today Netw.,221,Entertainment - Electronic Media,46,Media - Print/Television/Radio
+1011,418,Sandesh,117,Printing & Stationery,46,Media - Print/Television/Radio
+1012,419,MPS,117,Printing & Stationery,46,Media - Print/Television/Radio
+1013,1029,SAB Events,66,Entertainment - Content Providers,46,Media - Print/Television/Radio
+1014,700,20 Microns,106,Mining / Minerals,44,Mining & Mineral products
+1015,707,Resurgere Mines,106,Mining / Minerals,44,Mining & Mineral products
+1016,1478,GREENETH.RES&PRO,233,Coke / Metalurgical Coke,44,Mining & Mineral products
+1017,702,Orissa Minerals,106,Mining / Minerals,44,Mining & Mineral products
+1018,706,G M D C,106,Mining / Minerals,44,Mining & Mineral products
+1019,698,Vedanta,106,Mining / Minerals,44,Mining & Mineral products
+1020,705,MOIL,106,Mining / Minerals,44,Mining & Mineral products
+1021,703,Coal India,106,Mining / Minerals,44,Mining & Mineral products
+1022,697,Ashapura Minech.,106,Mining / Minerals,44,Mining & Mineral products
+1023,797,Rajdarshan Inds,208,Granite & Marble - Large,44,Mining & Mineral products
+1024,704,KIOCL,106,Mining / Minerals,44,Mining & Mineral products
+1025,701,NMDC,106,Mining / Minerals,44,Mining & Mineral products
+1026,1479,Guj NRE Coke,233,Coke / Metalurgical Coke,44,Mining & Mineral products
+1027,699,Shirpur Gold,106,Mining / Minerals,44,Mining & Mineral products
+1028,992,Metkore Alloys,254,Ferro Alloys,44,Mining & Mineral products
+1029,989,Shyam Century,254,Ferro Alloys,44,Mining & Mineral products
+1030,990,Indian Metals,254,Ferro Alloys,44,Mining & Mineral products
+1031,994,Maithan Alloys,254,Ferro Alloys,44,Mining & Mineral products
+1032,995,Rohit Ferro Tec.,254,Ferro Alloys,44,Mining & Mineral products
+1033,991,Impex Ferro Tech,254,Ferro Alloys,44,Mining & Mineral products
+1034,686,ICRA,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1035,1239,Atlas Cycles,13,Cycles And Accessories,11,Miscellaneous
+1036,738,Rushil Decor,247,Laminates,11,Miscellaneous
+1037,739,Greenlam Industr,247,Laminates,11,Miscellaneous
+1038,840,Avanti Feeds,214,Food - Processing - Others,11,Miscellaneous
+1039,741,Shri Matre,251,LPG Bottling,11,Miscellaneous
+1040,856,Pochiraju Inds.,238,Floriculture / Tissue Culture,11,Miscellaneous
+1041,855,Techindia Nirman,238,Floriculture / Tissue Culture,11,Miscellaneous
+1042,854,Karuturi Global,238,Floriculture / Tissue Culture,11,Miscellaneous
+1043,853,Agri-Tech India,238,Floriculture / Tissue Culture,11,Miscellaneous
+1044,852,Nath Bio-Genes,238,Floriculture / Tissue Culture,11,Miscellaneous
+1045,485,Jindal Photo,271,Photographic And Allied Products,11,Miscellaneous
+1046,740,Greenply Inds.,247,Laminates,11,Miscellaneous
+1047,687,Timbor Home,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1048,11,Cox & Kings,119,Travel Agencies,11,Miscellaneous
+1049,795,Venky's (India),173,Hatcheries,11,Miscellaneous
+1050,796,Aro Granite Inds,208,Granite & Marble - Large,11,Miscellaneous
+1051,798,Madhav Marbles,208,Granite & Marble - Large,11,Miscellaneous
+1052,799,Oriental Trimex,208,Granite & Marble - Large,11,Miscellaneous
+1053,800,Pokarna,208,Granite & Marble - Large,11,Miscellaneous
+1054,810,Guj.St.Petronet,259,Gas Distribution,11,Miscellaneous
+1055,667,Credit Analysis,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1056,668,Guj Pipavav Port,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1057,1234,Archidply Inds.,111,Decoratives - Wood-based,11,Miscellaneous
+1058,1235,Century Ply.,111,Decoratives - Wood-based,11,Miscellaneous
+1059,1236,Uniply Inds.,111,Decoratives - Wood-based,11,Miscellaneous
+1060,1237,Mangalam Timber,111,Decoratives - Wood-based,11,Miscellaneous
+1061,1736,Ashco Niulab Ind,228,Analytical Laboratory Equipment,11,Miscellaneous
+1062,1735,Vimta Labs,228,Analytical Laboratory Equipment,11,Miscellaneous
+1063,832,Jubilant Food.,30,Food And Dairy Products - Multinational,11,Miscellaneous
+1064,12,Thomas Cook (I),119,Travel Agencies,11,Miscellaneous
+1065,1238,Kitply Inds.,111,Decoratives - Wood-based,11,Miscellaneous
+1066,1240,Tube Investments,13,Cycles And Accessories,11,Miscellaneous
+1067,727,Nivyah Infra.,245,Lighting Systems,11,Miscellaneous
+1068,679,Talwal.Better,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1069,680,Husys Consulting,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1070,1243,Cupid,249,Contraceptives / Protectives,11,Miscellaneous
+1071,681,Team Lease Serv.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1072,696,Dredging Corpn.,202,Miscellaneous - Large,11,Miscellaneous
+1073,695,Pressman Adv.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1074,678,Multi Comm. Exc.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1075,694,Binani Inds,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1076,683,Furure Market,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1077,691,Navkar Corporat.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1078,690,Info Edg.(India),103,Miscellaneous - Medium / Small,11,Miscellaneous
+1079,689,Tree House Edu.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1080,688,NESCO,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1081,684,Advanta,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1082,682,Future Retail,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1083,677,Kesar Terminals,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1084,675,Just Dial,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1085,674,Kaveri Seed Co.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1086,673,Gujarat Gas,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1087,672,Mitcon Consult.,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1088,671,SPARC,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1089,669,CRISIL,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1090,670,Crown Lifters,103,Miscellaneous - Medium / Small,11,Miscellaneous
+1091,717,Elite Conductors,206,Metal - Copper / Copper Alloy Products,36,Non Ferrous Metals
+1092,716,Sagardeep Alloys,206,Metal - Copper / Copper Alloy Products,36,Non Ferrous Metals
+1093,715,Hind.Copper,206,Metal - Copper / Copper Alloy Products,36,Non Ferrous Metals
+1094,714,Cubex Tubings,206,Metal - Copper / Copper Alloy Products,36,Non Ferrous Metals
+1095,1745,Hindalco Inds.,77,Aluminium,36,Non Ferrous Metals
+1096,1744,Manaksia Alumi.,77,Aluminium,36,Non Ferrous Metals
+1097,1743,Natl. Aluminium,77,Aluminium,36,Non Ferrous Metals
+1098,1742,Maan Aluminium,184,Aluminium - Extrusions,36,Non Ferrous Metals
+1099,712,Prec. Wires (I),206,Metal - Copper / Copper Alloy Products,36,Non Ferrous Metals
+1100,1741,Century Extrus.,184,Aluminium - Extrusions,36,Non Ferrous Metals
+1101,711,Manaksia,120,Metal - Others,36,Non Ferrous Metals
+1102,710,Tinplate Co.,120,Metal - Others,36,Non Ferrous Metals
+1103,709,Arcotech Ltd,120,Metal - Others,36,Non Ferrous Metals
+1104,708,Hind.Zinc,200,Metal - Zinc,36,Non Ferrous Metals
+1105,1740,Ess Dee Alumin.,258,Aluminium - Sheets / Coils / Wires / Others,36,Non Ferrous Metals
+1106,993,Gravita India,254,Ferro Alloys,36,Non Ferrous Metals
+1107,1738,Parekh Aluminex,258,Aluminium - Sheets / Coils / Wires / Others,36,Non Ferrous Metals
+1108,713,Nissan Copper,206,Metal - Copper / Copper Alloy Products,36,Non Ferrous Metals
+1109,1739,Globus Corp.,258,Aluminium - Sheets / Coils / Wires / Others,36,Non Ferrous Metals
+1110,665,Jindal Drilling,176,Oil Drilling,57,Oil Drill/Allied
+1111,664,Dolphin Offshore,160,Oil Exploration / Allied Services,57,Oil Drill/Allied
+1112,657,Alphageo (India),160,Oil Exploration / Allied Services,57,Oil Drill/Allied
+1113,1006,Cyber Media Ind,221,Entertainment - Electronic Media,67,Online Media
+1114,643,Radha Madh.Corp.,54,Packaging - Others,26,Packaging
+1115,653,Max Ventures,43,Packaging - BOPP Film,26,Packaging
+1116,646,Everest Kanto,54,Packaging - Others,26,Packaging
+1117,645,Para. Print.,54,Packaging - Others,26,Packaging
+1118,644,Essel Propack,54,Packaging - Others,26,Packaging
+1119,642,Manaksia Indus.,54,Packaging - Others,26,Packaging
+1120,641,Rollatainers,54,Packaging - Others,26,Packaging
+1121,640,AMD Industries,54,Packaging - Others,26,Packaging
+1122,639,Control Print,54,Packaging - Others,26,Packaging
+1123,649,Glory Films,231,Packaging - Lamination / Processors - Medium/Small,26,Packaging
+1124,638,Emmbi Industries,54,Packaging - Others,26,Packaging
+1125,637,Sh. Rama Multi.,229,Packaging - Plastic Containers,26,Packaging
+1126,636,Hitech Plast,229,Packaging - Plastic Containers,26,Packaging
+1127,635,Mold-Tek Technol,229,Packaging - Plastic Containers,26,Packaging
+1128,634,TPL Plastech,229,Packaging - Plastic Containers,26,Packaging
+1129,633,Ester Inds.,157,Packaging - Polyester Film,26,Packaging
+1130,632,Polyplex Corpn,157,Packaging - Polyester Film,26,Packaging
+1131,631,Guj. Raffia Inds,215,Packaging - Polysacks,26,Packaging
+1132,650,Huhtamaki PPL,163,Packaging - Lamination / Processors - Large,26,Packaging
+1133,651,Uflex,163,Packaging - Lamination / Processors - Large,26,Packaging
+1134,652,Cosmo Films,43,Packaging - BOPP Film,26,Packaging
+1135,654,Nahar Poly,43,Packaging - BOPP Film,26,Packaging
+1136,655,Jindal Poly Film,43,Packaging - BOPP Film,26,Packaging
+1137,647,Flexituff Intl.,54,Packaging - Others,26,Packaging
+1138,648,Orient Press,231,Packaging - Lamination / Processors - Medium/Small,26,Packaging
+1139,626,Sil Business,9,Paints / Varnishes,8,Paints/Varnish
+1140,625,Shalimar Paints,9,Paints / Varnishes,8,Paints/Varnish
+1141,624,Akzo Nobel,9,Paints / Varnishes,8,Paints/Varnish
+1142,627,Berger Paints,9,Paints / Varnishes,8,Paints/Varnish
+1143,628,Asian Paints,9,Paints / Varnishes,8,Paints/Varnish
+1144,630,Kansai Nerolac,9,Paints / Varnishes,8,Paints/Varnish
+1145,629,Jenson & Nich.,9,Paints / Varnishes,8,Paints/Varnish
+1146,615,Seshasayee Paper,4,Paper - Large,3,Paper
+1147,614,JK Paper,4,Paper - Large,3,Paper
+1148,613,Internat. Paper,4,Paper - Large,3,Paper
+1149,612,Natl. Wind Power,203,Paper - Medium / Small,3,Paper
+1150,611,Malu Paper,203,Paper - Medium / Small,3,Paper
+1151,610,Ruchira Papers,203,Paper - Medium / Small,3,Paper
+1152,618,West Coast Paper,4,Paper - Large,3,Paper
+1153,608,Rainbow Papers,203,Paper - Medium / Small,3,Paper
+1154,607,Genus Paper & Bo,203,Paper - Medium / Small,3,Paper
+1155,606,Balkrishna Paper,203,Paper - Medium / Small,3,Paper
+1156,605,Pudumjee Paper,203,Paper - Medium / Small,3,Paper
+1157,604,Servalaksh.Paper,203,Paper - Medium / Small,3,Paper
+1158,617,Shreyans Inds.,4,Paper - Large,3,Paper
+1159,616,Shree Rama News.,4,Paper - Large,3,Paper
+1160,609,Magnum Ventures,203,Paper - Medium / Small,3,Paper
+1161,619,Sirpur Paper,4,Paper - Large,3,Paper
+1162,621,Star Paper Mills,4,Paper - Large,3,Paper
+1163,622,Ballarpur Inds.,4,Paper - Large,3,Paper
+1164,623,T N Newsprint,4,Paper - Large,3,Paper
+1165,620,Pudumjee Pulp,4,Paper - Large,3,Paper
+1166,579,Manali Petrochem,144,Petrochemicals - Others,27,Petrochemicals
+1167,578,Savita Oil Tech,144,Petrochemicals - Others,27,Petrochemicals
+1168,570,Dhunseri Petro.,140,Petrochemicals - Polymers - Medium / Small,27,Petrochemicals
+1169,577,Oricon Enter.,144,Petrochemicals - Others,27,Petrochemicals
+1170,576,Agarwal Indl.,144,Petrochemicals - Others,27,Petrochemicals
+1171,571,Bhansali Engg.,140,Petrochemicals - Polymers - Medium / Small,27,Petrochemicals
+1172,575,INEOS Styrolut.,48,Petrochemicals - Polymers - Large,27,Petrochemicals
+1173,574,Pearl Engg. Poly,48,Petrochemicals - Polymers - Large,27,Petrochemicals
+1174,573,DCW,48,Petrochemicals - Polymers - Large,27,Petrochemicals
+1175,572,Supreme Petroch.,48,Petrochemicals - Polymers - Large,27,Petrochemicals
+1176,1604,Celestial Biolab,260,Biotechnology,2,Pharmaceuticals
+1177,1607,Syngene Intl.,260,Biotechnology,2,Pharmaceuticals
+1178,1605,Biocon,260,Biotechnology,2,Pharmaceuticals
+1179,1606,Panacea Biotec,260,Biotechnology,2,Pharmaceuticals
+1180,496,Bafna Pharma.,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1181,528,Glenmark Pharma.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1182,549,Hikal,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1183,548,Marksans Pharma,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1184,547,Jubilant Life,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1185,546,Divi's Lab.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1186,545,Cipla,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1187,544,Alembic,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1188,543,Natco Pharma,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1189,542,Lyka Labs,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1190,541,TTK Healthcare,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1191,540,KDL Biotech,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1192,539,Unichem Labs.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1193,538,Aurobindo Pharma,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1194,537,J B Chem & Pharm,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1195,536,FDC,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1196,535,Sun Pharma.Inds.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1197,534,Torrent Pharma.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1198,533,Kopran,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1199,532,Piramal Enterp.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1200,531,Ipca Labs.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1201,530,Cadila Health.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1202,529,Dr Reddy's Labs,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1203,552,Sequent Scien.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1204,527,Morepen Labs.,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1205,550,Dishman Pharma.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1206,495,Syncom Health,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1207,486,Abbott India,12,Pharmaceuticals - Multinational,2,Pharmaceuticals
+1208,488,Glaxosmit Pharma,12,Pharmaceuticals - Multinational,2,Pharmaceuticals
+1209,553,Elder Pharma,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1210,554,Shilpa Medicare,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1211,555,Piraml.Phyto.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1212,556,SMS Pharma.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1213,557,Granules India,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1214,558,Parabolic Drugs,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1215,559,Wanbury,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1216,560,Nectar Lifesci.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1217,561,Neuland Labs.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1218,562,Lupin,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1219,563,Vinati Organics,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1220,564,Suven Life Scie.,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1221,565,Aarti Drugs,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1222,566,Krebs Biochem,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1223,567,Orchid Pharma,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1224,568,Parenteral Drugs,242,Pharmaceuticals - I V Fluids,2,Pharmaceuticals
+1225,569,Venus Remedies,242,Pharmaceuticals - I V Fluids,2,Pharmaceuticals
+1226,494,Ankur Drugs,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1227,493,Hester Bios,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1228,492,Caplin Point Lab,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1229,491,Sanofi India,12,Pharmaceuticals - Multinational,2,Pharmaceuticals
+1230,490,Pfizer,12,Pharmaceuticals - Multinational,2,Pharmaceuticals
+1231,489,Merck,12,Pharmaceuticals - Multinational,2,Pharmaceuticals
+1232,487,Astrazeneca Phar,12,Pharmaceuticals - Multinational,2,Pharmaceuticals
+1233,526,Wockhardt,36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg,2,Pharmaceuticals
+1234,551,Dynachem Pharma,123,Pharmaceuticals - Indian - Bulk Drugs,2,Pharmaceuticals
+1235,520,Themis Medicare,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1236,516,Brooks Lab.,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1237,514,Alkem Lab,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1238,513,Sakar Healthcare,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1239,512,Ind-Swift Labs.,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1240,511,Mangalam Drugs,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1241,510,Gufic BioScience,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1242,509,Arvind Remedies,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1243,508,Alpa Lab.,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1244,507,Ind-Swift,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1245,519,Bal Pharma,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1246,506,Lincoln Pharma.,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1247,517,Ortin Labs.,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1248,505,Bliss GVS Pharma,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1249,518,Alembic Pharma,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1250,504,Biofil Chemicals,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1251,503,Ajanta Pharma,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1252,502,Sharon Bio-Med.,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1253,501,Amrutanjan Healt,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1254,500,Kilitch Drugs,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1255,499,Albert David,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1256,498,Twilight Litaka,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1257,497,Plethico Pharma.,2,Pharmaceuticals - Indian - Formulations,2,Pharmaceuticals
+1258,524,RPG LifeScience.,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1259,525,Strides Shasun,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1260,522,Dr.Datsons Labs,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1261,523,Indoco Remedies,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1262,521,Jagsonpal Pharma,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1263,515,Surya Pharma.,197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S,2,Pharmaceuticals
+1264,240,Peria Kara. Tea,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1265,387,Elgi Rubb.,277,Rubber - Retreading,9,Plantation & Plantation Products
+1266,242,Tata Global,28,Tea - Indian - Large,9,Plantation & Plantation Products
+1267,245,Bombay Burmah,28,Tea - Indian - Large,9,Plantation & Plantation Products
+1268,1481,CCL Products,41,Coffee,9,Plantation & Plantation Products
+1269,1480,Tata Coffee,41,Coffee,9,Plantation & Plantation Products
+1270,386,Apcotex Industri,210,Rubber - Synthetic,9,Plantation & Plantation Products
+1271,241,United Nilgiri,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1272,243,Harri. Malayalam,28,Tea - Indian - Large,9,Plantation & Plantation Products
+1273,244,Jay Shree Tea,28,Tea - Indian - Large,9,Plantation & Plantation Products
+1274,238,Mcleod Russel,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1275,233,Grob Tea Co,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1276,234,Norben Tea,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1277,235,Duncans Inds.,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1278,390,GRP,186,Rubber - Products,9,Plantation & Plantation Products
+1279,239,Assam CO. (I),10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1280,232,Rossell India,253,Tea - Processing And Trading,9,Plantation & Plantation Products
+1281,236,Dhunseri Tea,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1282,237,NEPC Agro Foods,10,Tea - Indian - Medium / Small,9,Plantation & Plantation Products
+1283,388,S E Power,186,Rubber - Products,9,Plantation & Plantation Products
+1284,389,Somi Conv.Belt.,186,Rubber - Products,9,Plantation & Plantation Products
+1285,459,XPRO India,114,Plastics - Sheets,20,Plastic products
+1286,460,Jain Irrigation,114,Plastics - Sheets,20,Plastic products
+1287,467,Mayur Uniquote,235,Plastics - PU & PU leather,20,Plastic products
+1288,457,Tokyo Plast Intl,240,Plastics - Thermoware,20,Plastic products
+1289,461,Tainwala Chem.,114,Plastics - Sheets,20,Plastic products
+1290,462,Supreme Inds.,114,Plastics - Sheets,20,Plastic products
+1291,463,Tulsi Extrusions,174,Plastics - Pipes,20,Plastic products
+1292,464,Tijaria Poly.,174,Plastics - Pipes,20,Plastic products
+1293,465,Sanco Industries,174,Plastics - Pipes,20,Plastic products
+1294,466,Finolex Inds.,174,Plastics - Pipes,20,Plastic products
+1295,468,Texmo Pipes,24,Plastics - Others,20,Plastic products
+1296,458,Premier Polyfilm,114,Plastics - Sheets,20,Plastic products
+1297,470,Beardsell,24,Plastics - Others,20,Plastic products
+1298,469,Time Technoplast,24,Plastics - Others,20,Plastic products
+1299,484,Pearl Polymers,170,Plastics - Bottles / Jars,20,Plastic products
+1300,483,Responsive Ind,257,Plastics - Flooring,20,Plastic products
+1301,482,Nilkamal Ltd,194,Plastics - Furniture,20,Plastic products
+1302,481,Pil Italica,194,Plastics - Furniture,20,Plastic products
+1303,480,Kemrock Inds.,24,Plastics - Others,20,Plastic products
+1304,479,Mold-Tek Pack.,24,Plastics - Others,20,Plastic products
+1305,478,Kingfa Science,24,Plastics - Others,20,Plastic products
+1306,666,V I P Inds.,137,Moulded Luggage,20,Plastic products
+1307,476,AVSL Industries,24,Plastics - Others,20,Plastic products
+1308,475,Vikas Ecotech,24,Plastics - Others,20,Plastic products
+1309,474,Astral Poly,24,Plastics - Others,20,Plastic products
+1310,473,Ahimsa Indust.,24,Plastics - Others,20,Plastic products
+1311,472,Jai Corp,24,Plastics - Others,20,Plastic products
+1312,471,Sintex Inds.,24,Plastics - Others,20,Plastic products
+1313,477,Arrow Greentech,24,Plastics - Others,20,Plastic products
+1314,438,NLC India,29,Power Generation And Supply,21,Power Generation & Distribution
+1315,437,NHPC Ltd,29,Power Generation And Supply,21,Power Generation & Distribution
+1316,436,JSW Energy,29,Power Generation And Supply,21,Power Generation & Distribution
+1317,435,Adani Transmissi,29,Power Generation And Supply,21,Power Generation & Distribution
+1318,434,Adani Power,29,Power Generation And Supply,21,Power Generation & Distribution
+1319,431,KSK Energy Ven.,29,Power Generation And Supply,21,Power Generation & Distribution
+1320,432,Tata Power Co.,29,Power Generation And Supply,21,Power Generation & Distribution
+1321,430,BF Utilities,29,Power Generation And Supply,21,Power Generation & Distribution
+1322,429,SJVN,29,Power Generation And Supply,21,Power Generation & Distribution
+1323,439,JP Power Ven.,29,Power Generation And Supply,21,Power Generation & Distribution
+1324,428,Orient Green,29,Power Generation And Supply,21,Power Generation & Distribution
+1325,433,KKV Agro Powers,29,Power Generation And Supply,21,Power Generation & Distribution
+1326,440,Torrent Power,29,Power Generation And Supply,21,Power Generation & Distribution
+1327,446,Energy Devl.Co.,29,Power Generation And Supply,21,Power Generation & Distribution
+1328,442,CESC,29,Power Generation And Supply,21,Power Generation & Distribution
+1329,454,Rattanindia Pow.,29,Power Generation And Supply,21,Power Generation & Distribution
+1330,453,RattanIndia Infr,29,Power Generation And Supply,21,Power Generation & Distribution
+1331,441,Lanco Infratech,29,Power Generation And Supply,21,Power Generation & Distribution
+1332,451,NTPC,29,Power Generation And Supply,21,Power Generation & Distribution
+1333,450,Karma Ener.,29,Power Generation And Supply,21,Power Generation & Distribution
+1334,452,Guj Inds. Power,29,Power Generation And Supply,21,Power Generation & Distribution
+1335,448,Reliance Power,29,Power Generation And Supply,21,Power Generation & Distribution
+1336,447,Entegra,29,Power Generation And Supply,21,Power Generation & Distribution
+1337,445,India Power Corp,29,Power Generation And Supply,21,Power Generation & Distribution
+1338,444,Power Grid Corpn,29,Power Generation And Supply,21,Power Generation & Distribution
+1339,443,Indowind Energy,29,Power Generation And Supply,21,Power Generation & Distribution
+1340,449,Reliance Infra.,29,Power Generation And Supply,21,Power Generation & Distribution
+1341,423,Todays Writing,117,Printing & Stationery,56,Printing & Stationery
+1342,420,Linc Pen &Plast.,117,Printing & Stationery,56,Printing & Stationery
+1343,417,Kokuyo Camlin,117,Printing & Stationery,56,Printing & Stationery
+1344,124,Rupa & Co,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1345,123,K P R Mill Ltd,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1346,127,Gokaldas Exports,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1347,133,Evinix Indus.,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1348,135,Pearl Global Ind,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1349,130,First Winner,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1350,137,Kitex Garments,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1351,134,Page Industries,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1352,128,Kewal Kir.Cloth.,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1353,136,Zodiac Cloth. Co,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1354,131,Koutons Retail,234,Textiles - Readymade Apparel,64,Readymade Garments/ Apparells
+1355,1297,Godrej Propert.,96,Construction - Factories / Offices / Commercial,41,Realty
+1356,1298,Delta Corp,96,Construction - Factories / Offices / Commercial,41,Realty
+1357,1299,Texmaco Infrast.,96,Construction - Factories / Offices / Commercial,41,Realty
+1358,1301,Anant Raj,96,Construction - Factories / Offices / Commercial,41,Realty
+1359,1302,Omaxe,96,Construction - Factories / Offices / Commercial,41,Realty
+1360,1273,Unitech,153,Construction - Housing - Large,41,Realty
+1361,1272,H D I L,153,Construction - Housing - Large,41,Realty
+1362,1308,KND Engg.Techno.,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1363,1310,SPML Infra,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1364,1271,DLF,153,Construction - Housing - Large,41,Realty
+1365,1303,Nitesh Estates,96,Construction - Factories / Offices / Commercial,41,Realty
+1366,1296,JMC Projects,96,Construction - Factories / Offices / Commercial,41,Realty
+1367,1300,Marathon Nextgen,96,Construction - Factories / Offices / Commercial,41,Realty
+1368,1293,Pudumjee Industr,96,Construction - Factories / Offices / Commercial,41,Realty
+1369,1292,Phoenix Mills,96,Construction - Factories / Offices / Commercial,41,Realty
+1370,1291,Prozone Intu,96,Construction - Factories / Offices / Commercial,41,Realty
+1371,1289,Ahluwalia Contr.,96,Construction - Factories / Offices / Commercial,41,Realty
+1372,1288,J Kumar Infra,96,Construction - Factories / Offices / Commercial,41,Realty
+1373,1287,Oswal Green Tech,96,Construction - Factories / Offices / Commercial,41,Realty
+1374,1284,Brigade Enterpr.,96,Construction - Factories / Offices / Commercial,41,Realty
+1375,1283,Kolte Patil Dev.,96,Construction - Factories / Offices / Commercial,41,Realty
+1376,1282,Peninsula Land,96,Construction - Factories / Offices / Commercial,41,Realty
+1377,1281,MVL,96,Construction - Factories / Offices / Commercial,41,Realty
+1378,1280,Ajmera Realty,96,Construction - Factories / Offices / Commercial,41,Realty
+1379,1279,Hubtown,96,Construction - Factories / Offices / Commercial,41,Realty
+1380,1277,D B Realty,96,Construction - Factories / Offices / Commercial,41,Realty
+1381,1295,Dilip Buildcon,96,Construction - Factories / Offices / Commercial,41,Realty
+1382,1294,Puravankar.Proj.,96,Construction - Factories / Offices / Commercial,41,Realty
+1383,1267,Ashiana Housing,175,Construction - Housing - Medium / Small,41,Realty
+1384,1275,Zandu Realty,96,Construction - Factories / Offices / Commercial,41,Realty
+1385,1343,NBCC,62,Construction - Civil / Turnkey - Large,41,Realty
+1386,1244,Country Condo,175,Construction - Housing - Medium / Small,41,Realty
+1387,1245,Growth Techno,175,Construction - Housing - Medium / Small,41,Realty
+1388,1247,PVP Ventures,175,Construction - Housing - Medium / Small,41,Realty
+1389,1336,Indbull.RealEst.,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1390,1248,Arih.Found.Hsg.,175,Construction - Housing - Medium / Small,41,Realty
+1391,1250,Swan Energy,175,Construction - Housing - Medium / Small,41,Realty
+1392,1268,D S Kulkarni Dev,175,Construction - Housing - Medium / Small,41,Realty
+1393,1254,Vipul Ltd,175,Construction - Housing - Medium / Small,41,Realty
+1394,1331,Emami Infra.,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1395,1330,Kaushalya Infra.,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1396,1252,Oberoi Realty,175,Construction - Housing - Medium / Small,41,Realty
+1397,1256,Nila Infrastruct,175,Construction - Housing - Medium / Small,41,Realty
+1398,1318,Valecha Eng.,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1399,1255,Arvind Infra.,175,Construction - Housing - Medium / Small,41,Realty
+1400,1263,Prestige Estates,175,Construction - Housing - Medium / Small,41,Realty
+1401,1261,Ansal Housing,175,Construction - Housing - Medium / Small,41,Realty
+1402,1322,Prajay Engg.,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1403,1266,TCI Developers,175,Construction - Housing - Medium / Small,41,Realty
+1404,1260,Sunteck Realty,175,Construction - Housing - Medium / Small,41,Realty
+1405,1259,Ansal Properties,175,Construction - Housing - Medium / Small,41,Realty
+1406,1258,Orbit Corpn.,175,Construction - Housing - Medium / Small,41,Realty
+1407,1257,Landmark Prop.,175,Construction - Housing - Medium / Small,41,Realty
+1408,1323,Tarmat,33,Construction - Civil / Turnkey - Medium / Small,41,Realty
+1409,1274,Sobha,153,Construction - Housing - Large,41,Realty
+1410,411,H P C L,105,Refineries,43,Refineries
+1411,410,B P C L,105,Refineries,43,Refineries
+1412,409,Reliance Inds.,105,Refineries,43,Refineries
+1413,408,C P C L,105,Refineries,43,Refineries
+1414,407,Nagar.Oil Refin.,105,Refineries,43,Refineries
+1415,406,M R P L,105,Refineries,43,Refineries
+1416,405,I O C L,105,Refineries,43,Refineries
+1417,404,Orient Refrac.,204,Refractories / Intermediates,61,Refractories
+1418,403,Vesuvius India,204,Refractories / Intermediates,61,Refractories
+1419,402,IFGL Refractor,204,Refractories / Intermediates,61,Refractories
+1420,397,Trent,91,Retailing,40,Retail
+1421,393,Shoppers St.,91,Retailing,40,Retail
+1422,394,Brandhou.Retail,91,Retailing,40,Retail
+1423,395,Aditya Bir. Fas.,91,Retailing,40,Retail
+1424,401,Future Enterp.,91,Retailing,40,Retail
+1425,400,Provogue (India),91,Retailing,40,Retail
+1426,396,V2 Retail,91,Retailing,40,Retail
+1427,392,Store One Retail,91,Retailing,40,Retail
+1428,399,V-Mart Retail,91,Retailing,40,Retail
+1429,398,Future Lifestyle,91,Retailing,40,Retail
+1430,1541,HSIL,76,Ceramics - Sanitaryware / Others,35,Sanitaryware
+1431,376,ABG Shipyard,264,Ship - Breaking / Repairing,68,Ship Building
+1432,377,Reliance Defence,264,Ship - Breaking / Repairing,68,Ship Building
+1433,378,Bharati Defence,264,Ship - Breaking / Repairing,68,Ship Building
+1434,372,S C I,67,Shipping - Large,32,Shipping
+1435,371,Mercator,67,Shipping - Large,32,Shipping
+1436,374,GE Shipping Co,67,Shipping - Large,32,Shipping
+1437,369,Shreyas Shipping,132,Shipping - medium / small,32,Shipping
+1438,368,Global Offshore,132,Shipping - medium / small,32,Shipping
+1439,375,Varun Ship. Co.,67,Shipping - Large,32,Shipping
+1440,367,SEAMEC Ltd,132,Shipping - medium / small,32,Shipping
+1441,373,GOL Offshore,67,Shipping - Large,32,Shipping
+1442,370,Essar Shipping,67,Shipping - Large,32,Shipping
+1443,336,Sarda Energy,97,Steel - Medium / Small,38,Steel
+1444,337,Zenith Birla,97,Steel - Medium / Small,38,Steel
+1445,275,Bharat Wire,272,Steel - Wires,38,Steel
+1446,317,Sunflag Iron,97,Steel - Medium / Small,38,Steel
+1447,318,Ramsarup Inds.,97,Steel - Medium / Small,38,Steel
+1448,319,Pennar Engg.Bld.,97,Steel - Medium / Small,38,Steel
+1449,320,Gandhi Spl. Tube,97,Steel - Medium / Small,38,Steel
+1450,321,Manaksia Coated,97,Steel - Medium / Small,38,Steel
+1451,322,Prakash Steelage,97,Steel - Medium / Small,38,Steel
+1452,323,Usha Martin,97,Steel - Medium / Small,38,Steel
+1453,324,Mukand,97,Steel - Medium / Small,38,Steel
+1454,347,Tata Steel,121,Steel - Large,38,Steel
+1455,346,Jindal Saw,121,Steel - Large,38,Steel
+1456,345,Uttam Galva,121,Steel - Large,38,Steel
+1457,344,Jindal Stain.,121,Steel - Large,38,Steel
+1458,343,Visa Steel,97,Steel - Medium / Small,38,Steel
+1459,342,Natl. Steel&Agro,97,Steel - Medium / Small,38,Steel
+1460,340,Kridhan Infra,97,Steel - Medium / Small,38,Steel
+1461,316,Goodluck Steel,97,Steel - Medium / Small,38,Steel
+1462,339,Skipper,97,Steel - Medium / Small,38,Steel
+1463,348,Jindal Stain .Hi,121,Steel - Large,38,Steel
+1464,302,Tata Metaliks,217,Steel - Pig Iron,38,Steel
+1465,351,S A I L,121,Steel - Large,38,Steel
+1466,350,JSW Steel,121,Steel - Large,38,Steel
+1467,349,Bhushan Steel,121,Steel - Large,38,Steel
+1468,314,Pennar Inds.,97,Steel - Medium / Small,38,Steel
+1469,313,Sujana Metal Prd,97,Steel - Medium / Small,38,Steel
+1470,312,Lloyds Steels,97,Steel - Medium / Small,38,Steel
+1471,311,Vardhman Spl.,97,Steel - Medium / Small,38,Steel
+1472,310,Adhunik Indus.,97,Steel - Medium / Small,38,Steel
+1473,309,Grand Foundry,97,Steel - Medium / Small,38,Steel
+1474,308,Electrosteel St.,97,Steel - Medium / Small,38,Steel
+1475,307,Gallantt Metal,97,Steel - Medium / Small,38,Steel
+1476,306,Super Forgings,97,Steel - Medium / Small,38,Steel
+1477,305,Kamdhenu,97,Steel - Medium / Small,38,Steel
+1478,304,Uttam Value Ste.,97,Steel - Medium / Small,38,Steel
+1479,303,Sathavaha. Ispat,217,Steel - Pig Iron,38,Steel
+1480,301,Mahamaya Steel,87,Steel - Rolling,38,Steel
+1481,325,Ratnamani Metals,97,Steel - Medium / Small,38,Steel
+1482,341,Surya Roshni,97,Steel - Medium / Small,38,Steel
+1483,299,Kalyani Steels,87,Steel - Rolling,38,Steel
+1484,300,Prakash Inds.,87,Steel - Rolling,38,Steel
+1485,289,Vaswani Inds.,85,Steel - Sponge Iron,38,Steel
+1486,288,Ankit Met.Power,85,Steel - Sponge Iron,38,Steel
+1487,287,MSP Steel & Pow.,85,Steel - Sponge Iron,38,Steel
+1488,286,Innoventive Ind.,110,Steel - Tubes / Pipes,38,Steel
+1489,285,Steel Tubes (I),110,Steel - Tubes / Pipes,38,Steel
+1490,284,Hi-Tech Pipes,110,Steel - Tubes / Pipes,38,Steel
+1491,283,Welspun Corp,110,Steel - Tubes / Pipes,38,Steel
+1492,282,Man Inds.,110,Steel - Tubes / Pipes,38,Steel
+1493,281,Technocraf.Inds.,110,Steel - Tubes / Pipes,38,Steel
+1494,280,Srikalahas. Pip.,110,Steel - Tubes / Pipes,38,Steel
+1495,279,Oil Country,110,Steel - Tubes / Pipes,38,Steel
+1496,278,APL Apollo,110,Steel - Tubes / Pipes,38,Steel
+1497,277,PSL,110,Steel - Tubes / Pipes,38,Steel
+1498,276,Bedmutha Indus.,272,Steel - Wires,38,Steel
+1499,291,Monnet Ispat,85,Steel - Sponge Iron,38,Steel
+1500,292,S.A.L Steel,85,Steel - Sponge Iron,38,Steel
+1501,290,Tata Sponge Iron,85,Steel - Sponge Iron,38,Steel
+1502,294,Gallantt Ispat,85,Steel - Sponge Iron,38,Steel
+1503,298,Kamper Concast,87,Steel - Rolling,38,Steel
+1504,297,Mah. Seamless,198,Steel - Seamless Tubes,38,Steel
+1505,326,OCL Iron & Steel,97,Steel - Medium / Small,38,Steel
+1506,293,Jindal Steel,85,Steel - Sponge Iron,38,Steel
+1507,328,Manaksia Steels,97,Steel - Medium / Small,38,Steel
+1508,329,Surana Inds.,97,Steel - Medium / Small,38,Steel
+1509,330,Shah Alloys,97,Steel - Medium / Small,38,Steel
+1510,327,Varun Inds.,97,Steel - Medium / Small,38,Steel
+1511,332,ISMT,97,Steel - Medium / Small,38,Steel
+1512,333,Godawari Power,97,Steel - Medium / Small,38,Steel
+1513,334,Bil Energy Sys.,97,Steel - Medium / Small,38,Steel
+1514,335,Bilpower,97,Steel - Medium / Small,38,Steel
+1515,296,Jai Balaji Inds.,85,Steel - Sponge Iron,38,Steel
+1516,338,Gyscoal Alloys,97,Steel - Medium / Small,38,Steel
+1517,295,Vikash Metal,85,Steel - Sponge Iron,38,Steel
+1518,331,Adhunik Metal,97,Steel - Medium / Small,38,Steel
+1519,315,Rama Steel Tubes,97,Steel - Medium / Small,38,Steel
+1520,379,Geojit BNP,205,Securities/Commodities Trading Services,63,Stock/ Commodity Brokers
+1521,380,IIFL Holdings,205,Securities/Commodities Trading Services,63,Stock/ Commodity Brokers
+1522,381,Indbank Merchant,205,Securities/Commodities Trading Services,63,Stock/ Commodity Brokers
+1523,382,Adit.Birla Money,205,Securities/Commodities Trading Services,63,Stock/ Commodity Brokers
+1524,384,Emk.Global Fin.,205,Securities/Commodities Trading Services,63,Stock/ Commodity Brokers
+1525,385,DB Intl.Stock,205,Securities/Commodities Trading Services,63,Stock/ Commodity Brokers
+1526,274,Bajaj Hindusthan,17,Sugar - Integrated,15,Sugar
+1527,272,Parrys Sugar,17,Sugar - Integrated,15,Sugar
+1528,251,Rana Sugars,126,Sugar - Others,15,Sugar
+1529,264,EID Parry,17,Sugar - Integrated,15,Sugar
+1530,263,Dhampur Sugar,17,Sugar - Integrated,15,Sugar
+1531,262,Rajshree Sugars,17,Sugar - Integrated,15,Sugar
+1532,261,Ugar Sugar Works,17,Sugar - Integrated,15,Sugar
+1533,260,Balrampur Chini,17,Sugar - Integrated,15,Sugar
+1534,259,Sh.Renuka Sugar,17,Sugar - Integrated,15,Sugar
+1535,258,Kesar Enterprise,17,Sugar - Integrated,15,Sugar
+1536,257,Mawana Sugars,126,Sugar - Others,15,Sugar
+1537,256,Upper Gang. Sug.,126,Sugar - Others,15,Sugar
+1538,255,Pruden. Sugar,126,Sugar - Others,15,Sugar
+1539,254,Uttam Sug.Mills,126,Sugar - Others,15,Sugar
+1540,253,KCP Sugar &Inds.,126,Sugar - Others,15,Sugar
+1541,252,Willard India,126,Sugar - Others,15,Sugar
+1542,246,Eastern Sugar,126,Sugar - Others,15,Sugar
+1543,249,KM Sugar Mills,126,Sugar - Others,15,Sugar
+1544,265,Thiru Aroor. Su.,17,Sugar - Integrated,15,Sugar
+1545,247,Khaitan (India),126,Sugar - Others,15,Sugar
+1546,266,Triven.Engg.Ind.,17,Sugar - Integrated,15,Sugar
+1547,268,Kothari Sugars,17,Sugar - Integrated,15,Sugar
+1548,250,Oudh Sugar Mills,126,Sugar - Others,15,Sugar
+1549,267,Dharani Sugars,17,Sugar - Integrated,15,Sugar
+1550,273,Dalmia Bharat,17,Sugar - Integrated,15,Sugar
+1551,248,Dwarikesh Sugar,126,Sugar - Others,15,Sugar
+1552,270,Ponni Sug.Erode,17,Sugar - Integrated,15,Sugar
+1553,269,Bannari Amm.Sug.,17,Sugar - Integrated,15,Sugar
+1554,271,Sakthi Sugars,17,Sugar - Integrated,15,Sugar
+1555,229,Spice Mobility,98,Telecommunications - Equipment - Large,59,Telecom-Handsets/Mobile
+1556,230,GTL,98,Telecommunications - Equipment - Large,42,Telecomm Equipment & Infra Services
+1557,228,H F C L,98,Telecommunications - Equipment - Large,42,Telecomm Equipment & Infra Services
+1558,227,NELCO,98,Telecommunications - Equipment - Large,42,Telecomm Equipment & Infra Services
+1559,220,Nu Tek India,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1560,225,Kavveri Telecom,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1561,224,Gemini Comm.,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1562,231,ITI,98,Telecommunications - Equipment - Large,42,Telecomm Equipment & Infra Services
+1563,223,AGC Networks,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1564,222,XL Energy,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1565,226,Goldst.Infratec.,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1566,219,Shyam Telecom,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1567,218,GTL Infra.,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1568,29,Bharti Infra.,167,Transmisson Line Towers / Equipment,42,Telecomm Equipment & Infra Services
+1569,221,Astra Microwave,159,Telecommunications - Equipment - Medium / Small,42,Telecomm Equipment & Infra Services
+1570,214,M T N L,199,Telecommunications - Service Provider,60,Telecomm-Service
+1571,217,Bharti Airtel,199,Telecommunications - Service Provider,60,Telecomm-Service
+1572,213,Tata Comm,199,Telecommunications - Service Provider,60,Telecomm-Service
+1573,212,OnMobile Global,199,Telecommunications - Service Provider,60,Telecomm-Service
+1574,216,Tata Tele. Mah.,199,Telecommunications - Service Provider,60,Telecomm-Service
+1575,211,Idea Cellular,199,Telecommunications - Service Provider,60,Telecomm-Service
+1576,209,Tulip Telecom,199,Telecommunications - Service Provider,60,Telecomm-Service
+1577,210,Rel. Comm.,199,Telecommunications - Service Provider,60,Telecomm-Service
+1578,215,Vital Comm.,199,Telecommunications - Service Provider,60,Telecomm-Service
+1579,106,NEPC Textiles,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1580,107,Ambika Cotton,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1581,105,DCM,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1582,108,GTN Textiles,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1583,104,Vardhman Polytex,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1584,119,Sangam India,135,Textiles - Spinning - Synthetic / Blended,5,Textiles
+1585,110,Nitin Spinners,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1586,111,SEL Mfg. Co,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1587,118,RSWM Ltd,135,Textiles - Spinning - Synthetic / Blended,5,Textiles
+1588,113,Vardhman Textile,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1589,114,Supreme Impex,135,Textiles - Spinning - Synthetic / Blended,5,Textiles
+1590,115,Hind Syntex,135,Textiles - Spinning - Synthetic / Blended,5,Textiles
+1591,116,Banswara Syntex,135,Textiles - Spinning - Synthetic / Blended,5,Textiles
+1592,103,Lambodhara Text.,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1593,117,Jindal Cotex Ltd,135,Textiles - Spinning - Synthetic / Blended,5,Textiles
+1594,109,GTN Industries,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1595,102,Malwa Cotton Spg,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1596,84,Bombay Dyeing,26,Textiles - Texturising,5,Textiles
+1597,100,Birla Cotsyn,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1598,68,Digjam,280,Textiles - Worsted Fabric,5,Textiles
+1599,69,Orbit Exports,108,Textiles - Weaving,5,Textiles
+1600,70,Garden Silk Mill,108,Textiles - Weaving,5,Textiles
+1601,71,Indus Fila,108,Textiles - Weaving,5,Textiles
+1602,72,Pradip Overseas,108,Textiles - Weaving,5,Textiles
+1603,73,BSL,108,Textiles - Weaving,5,Textiles
+1604,74,S Kumars Nation,108,Textiles - Weaving,5,Textiles
+1605,75,Siyaram Silk,108,Textiles - Weaving,5,Textiles
+1606,76,Alok Inds.,108,Textiles - Weaving,5,Textiles
+1607,77,Donear Inds.,108,Textiles - Weaving,5,Textiles
+1608,78,Ramgopal Polytex,26,Textiles - Texturising,5,Textiles
+1609,79,Raj Rayon Inds.,26,Textiles - Texturising,5,Textiles
+1610,80,Blue Blends (I),26,Textiles - Texturising,5,Textiles
+1611,81,Mohit Inds.,26,Textiles - Texturising,5,Textiles
+1612,82,Sarla Performanc,26,Textiles - Texturising,5,Textiles
+1613,83,Ganesha Ecosphe.,26,Textiles - Texturising,5,Textiles
+1614,85,AYM Syntex,26,Textiles - Texturising,5,Textiles
+1615,99,Shiva Texyarn,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1616,98,Sutlej Textiles,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1617,97,Bannari Amm Spg.,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1618,96,Suryalak. Cott.,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1619,95,Suryajyoti Spg.,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1620,94,Super Spinning,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1621,101,Suprem.Tex Mart,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1622,93,Salona Cotspin,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1623,91,Modern Terry Tow,169,Textiles - Terry Towels,5,Textiles
+1624,90,Welspun India,169,Textiles - Terry Towels,5,Textiles
+1625,89,Damodar Indust.,26,Textiles - Texturising,5,Textiles
+1626,88,Nakoda,26,Textiles - Texturising,5,Textiles
+1627,87,Weizmann,26,Textiles - Texturising,5,Textiles
+1628,86,Shekhawati Poly.,26,Textiles - Texturising,5,Textiles
+1629,92,Trident,169,Textiles - Terry Towels,5,Textiles
+1630,120,Zenith Exports,148,Textiles - Silk,5,Textiles
+1631,112,Precot Meridian,45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg,5,Textiles
+1632,122,Himatsing. Seide,148,Textiles - Silk,5,Textiles
+1633,188,Gangotri Textile,151,Textiles - Cotton Yarn - Open-Ended Spinning,5,Textiles
+1634,187,Ashima,6,Textiles - Denim Fabric,5,Textiles
+1635,186,Arvind Ltd,6,Textiles - Denim Fabric,5,Textiles
+1636,121,ESI,148,Textiles - Silk,5,Textiles
+1637,185,Modern Denim,6,Textiles - Denim Fabric,5,Textiles
+1638,184,Aarvee Denims,6,Textiles - Denim Fabric,5,Textiles
+1639,183,Pion. Embroider.,226,Textiles - Embroidery Fabric,5,Textiles
+1640,189,STI India,151,Textiles - Cotton Yarn - Open-Ended Spinning,5,Textiles
+1641,182,Mandhana Indus,226,Textiles - Embroidery Fabric,5,Textiles
+1642,180,Nahar Spinning,150,Textiles - Hosiery / Knitwear,5,Textiles
+1643,179,T T,150,Textiles - Hosiery / Knitwear,5,Textiles
+1644,178,Rajvir Inds.,256,Textiles - Jute - Yarn / Products,5,Textiles
+1645,177,AI Champ.Inds.,256,Textiles - Jute - Yarn / Products,5,Textiles
+1646,176,SRF,107,Textiles - Manmade - Nylon,5,Textiles
+1647,175,JBF Inds.,134,Textiles - Manmade - PFY / PSF - From Chips,5,Textiles
+1648,174,Filatex India,134,Textiles - Manmade - PFY / PSF - From Chips,5,Textiles
+1649,181,Jet Knitwears,150,Textiles - Hosiery / Knitwear,5,Textiles
+1650,173,Paras Petrofils,134,Textiles - Manmade - PFY / PSF - From Chips,5,Textiles
+1651,190,Nahar Indl. Ent.,151,Textiles - Cotton Yarn - Open-Ended Spinning,5,Textiles
+1652,192,Indo Count Inds.,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1653,208,Indian CardCloth,81,Textile machinery,5,Textiles
+1654,207,Lak. Mach. Works,81,Textile machinery,5,Textiles
+1655,206,Grasim Inds,71,Textiles - Acrylic Fibre,5,Textiles
+1656,205,Rai S R Mohota,218,Textiles - Composite/Cotton/Blended/Fabric - LARGE,5,Textiles
+1657,204,Maxwell Inds.,218,Textiles - Composite/Cotton/Blended/Fabric - LARGE,5,Textiles
+1658,203,Soma Textiles,218,Textiles - Composite/Cotton/Blended/Fabric - LARGE,5,Textiles
+1659,202,Lux Industries,180,Textiles - Composite/Cotton/Blended/Fabric - M/S,5,Textiles
+1660,191,Maral Overseas,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1661,201,Ruby Mills,180,Textiles - Composite/Cotton/Blended/Fabric - M/S,5,Textiles
+1662,199,Nagreeka Exports,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1663,198,Spentex Inds.,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1664,197,Ginni Filaments,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1665,196,Amit Spinning,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1666,195,Winsome Yarns,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1667,194,Eurotex Inds.,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1668,193,Abhishek Corp.,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1669,200,Patspin India,168,Textiles - Cotton Yarn - 100% EOUs,5,Textiles
+1670,172,GSL Nova Petro.,134,Textiles - Manmade - PFY / PSF - From Chips,5,Textiles
+1671,149,Momai Apparels,63,Textiles - Others,5,Textiles
+1672,170,Century Enka,34,Textiles - Manmade - PFY/PSF - InHouse Poly Condsn,5,Textiles
+1673,156,Raymond,63,Textiles - Others,5,Textiles
+1674,142,E-Land Apparel,220,Textiles - Processing,5,Textiles
+1675,143,Shri Lakshmi,220,Textiles - Processing,5,Textiles
+1676,144,Jindal Worldwide,63,Textiles - Others,5,Textiles
+1677,391,Cantabil Retail,91,Retailing,5,Textiles
+1678,145,Gretex Indust.,63,Textiles - Others,5,Textiles
+1679,146,Indian Terrain,63,Textiles - Others,5,Textiles
+1680,157,Lovable Lingerie,63,Textiles - Others,5,Textiles
+1681,147,Hanung Toys,63,Textiles - Others,5,Textiles
+1682,150,S P Apparels,63,Textiles - Others,5,Textiles
+1683,151,Bombay Rayon,63,Textiles - Others,5,Textiles
+1684,152,Garware-Wall Rop,63,Textiles - Others,5,Textiles
+1685,153,Monte Carlo Fas.,63,Textiles - Others,5,Textiles
+1686,154,Celebrity Fash.,63,Textiles - Others,5,Textiles
+1687,155,Morarjee Text.,63,Textiles - Others,5,Textiles
+1688,171,CIL Nova Petro.,134,Textiles - Manmade - PFY / PSF - From Chips,5,Textiles
+1689,148,Mavi Industries,63,Textiles - Others,5,Textiles
+1690,140,STL Global,220,Textiles - Processing,5,Textiles
+1691,141,Emtex Inds(I),220,Textiles - Processing,5,Textiles
+1692,138,NRC,83,Textiles - Rayon,5,Textiles
+1693,169,Modern Syntex,34,Textiles - Manmade - PFY/PSF - InHouse Poly Condsn,5,Textiles
+1694,168,Vardhman Acrylic,34,Textiles - Manmade - PFY/PSF - InHouse Poly Condsn,5,Textiles
+1695,167,Indo Rama Synth.,171,Textiles - Manmade - Polypropylene Filament Yarn,5,Textiles
+1696,166,Sumeet Inds.,171,Textiles - Manmade - Polypropylene Filament Yarn,5,Textiles
+1697,165,Ashapura Inti.,63,Textiles - Others,5,Textiles
+1698,164,Alps Inds.,63,Textiles - Others,5,Textiles
+1699,163,United Polyfab,63,Textiles - Others,5,Textiles
+1700,162,Integra Garments,63,Textiles - Others,5,Textiles
+1701,161,Arrow Textiles,63,Textiles - Others,5,Textiles
+1702,139,Aditya Bir. Nuv.,83,Textiles - Rayon,5,Textiles
+1703,160,SPL Inds.,63,Textiles - Others,5,Textiles
+1704,158,Nandani Creation,63,Textiles - Others,5,Textiles
+1705,125,Sudar Industries,234,Textiles - Readymade Apparel,5,Textiles
+1706,126,Thomas Scott,234,Textiles - Readymade Apparel,5,Textiles
+1707,129,Bang Overseas,234,Textiles - Readymade Apparel,5,Textiles
+1708,132,PDS Multi.,234,Textiles - Readymade Apparel,5,Textiles
+1709,159,Nandan Denim,63,Textiles - Others,5,Textiles
+1710,1485,Godfrey Phillips,69,Cigarettes,33,Tobacco Products
+1711,1484,ITC,69,Cigarettes,33,Tobacco Products
+1712,1483,Golden Tobacco,69,Cigarettes,33,Tobacco Products
+1713,1482,VST Inds.,69,Cigarettes,33,Tobacco Products
+1714,36,Kothari Petroche,1,Trading - Medium / Small,1,Trading
+1715,40,Indbul.Wholesale,1,Trading - Medium / Small,1,Trading
+1716,38,Sicagen India,1,Trading - Medium / Small,1,Trading
+1717,67,3M India,195,Trading - Large,1,Trading
+1718,66,Adani Enterp.,195,Trading - Large,1,Trading
+1719,65,Surana Corp.,195,Trading - Large,1,Trading
+1720,64,S T C,195,Trading - Large,1,Trading
+1721,63,MMTC,195,Trading - Large,1,Trading
+1722,62,PTC India,195,Trading - Large,1,Trading
+1723,61,Vinyl Chemicals,1,Trading - Medium / Small,1,Trading
+1724,59,Aegis Logistics,1,Trading - Medium / Small,1,Trading
+1725,58,Visagar Polytex,1,Trading - Medium / Small,1,Trading
+1726,57,Standard Inds.,1,Trading - Medium / Small,1,Trading
+1727,56,Green Fire,1,Trading - Medium / Small,1,Trading
+1728,55,JIK Inds.,1,Trading - Medium / Small,1,Trading
+1729,37,Kothari Products,1,Trading - Medium / Small,1,Trading
+1730,54,High Ground,1,Trading - Medium / Small,1,Trading
+1731,60,Noesis Industrie,1,Trading - Medium / Small,1,Trading
+1732,45,Signet Indus.,1,Trading - Medium / Small,1,Trading
+1733,39,Alchemist,1,Trading - Medium / Small,1,Trading
+1734,52,A B M Internatl.,1,Trading - Medium / Small,1,Trading
+1735,51,Aspinwall & Co,1,Trading - Medium / Small,1,Trading
+1736,50,Future Consumer,1,Trading - Medium / Small,1,Trading
+1737,41,Uniphos Enter.,1,Trading - Medium / Small,1,Trading
+1738,49,REI Six Ten,1,Trading - Medium / Small,1,Trading
+1739,48,U B Holdings,1,Trading - Medium / Small,1,Trading
+1740,47,Archies,1,Trading - Medium / Small,1,Trading
+1741,46,Rain Industries,1,Trading - Medium / Small,1,Trading
+1742,53,Hexa Tradex,1,Trading - Medium / Small,1,Trading
+1743,44,Sakuma Exports,1,Trading - Medium / Small,1,Trading
+1744,43,Anik Industries,1,Trading - Medium / Small,1,Trading
+1745,42,Ambica Agarbat.,1,Trading - Medium / Small,1,Trading
+1746,3,PTL Enterprises,95,Tyres - Medium / Small,4,Tyres
+1747,4,Modi Rubber,95,Tyres - Medium / Small,4,Tyres
+1748,10,MRF,5,Tyres - Large,4,Tyres
+1749,6,TVS Srichakra,5,Tyres - Large,4,Tyres
+1750,7,Apollo Tyres,5,Tyres - Large,4,Tyres
+1751,9,JK Tyre & Indust,5,Tyres - Large,4,Tyres
+1752,5,CEAT,5,Tyres - Large,4,Tyres
+1753,8,Balkrishna Inds,5,Tyres - Large,4,Tyres

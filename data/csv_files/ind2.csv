@@ -1,0 +1,282 @@
+,industry_code,industry_name
+0,I0,Cement - Major - North India
+1,I1,Trading - Medium / Small
+2,I2,Pharmaceuticals - Indian - Formulations
+3,I3,Cement - Major - South India
+4,I4,Paper - Large
+5,I5,Tyres - Large
+6,I6,Textiles - Denim Fabric
+7,I7,Automobiles - LCVs/HCVs
+8,I8,Hotels - Large
+9,I9,Paints / Varnishes
+10,I10,Tea - Indian - Medium / Small
+11,I11,Bearings - Large
+12,I12,Pharmaceuticals - Multinational
+13,I13,Cycles And Accessories
+14,I14,Dyes And Pigments - Large
+15,I15,Finance - Investment / Others
+16,I16,Domestic Appliances - White Goods
+17,I17,Sugar - Integrated
+18,I18,Leather Chemicals
+19,I19,Leather / Synthetic Footware - Large
+20,I20,Pesticides / Agrochemicals - Multinational
+21,I21,Electric Equipment - Transformers
+22,I22,Forgings - Large
+23,I23,Auto Ancillaries - Gears
+24,I24,Plastics - Others
+25,I25,Electric Equipment - Gensets / Turbines
+26,I26,Textiles - Texturising
+27,I27,Air-conditioners
+28,I28,Tea - Indian - Large
+29,I29,Power Generation And Supply
+30,I30,Food And Dairy Products - Multinational
+31,I31,Electrodes - Graphites
+32,I32,Abrasives and Grinding Wheels
+33,I33,Construction - Civil / Turnkey - Medium / Small
+34,I34,Textiles - Manmade - PFY/PSF - InHouse Poly Condsn
+35,I35,Auto Ancillaries - Batteries
+36,I36,Pharmaceuticals - Indian - Bulk Drugs & Formln Lrg
+37,I37,Auto Ancillaries - Clutches
+38,I38,Chemicals - Speciality - Medium / Small
+39,I39,Personal Care - Multinational
+40,I40,Chemicals - Speciality - Large
+41,I41,Coffee
+42,I42,Fertilizers - Nitrogenous / Phosphatic
+43,I43,Packaging - BOPP Film
+44,I44,Electric Equipment - General - Large
+45,I45,Textiles - Spinning/Cotton/Blended Yarn - Ring Spg
+46,I46,Cement - Mini - South India
+47,I47,Chemicals - Benzene-based
+48,I48,Petrochemicals - Polymers - Large
+49,I49,Engineering - Heavy - Material Handling
+50,I50,Castings - Grey Iron
+51,I51,Compressors / Drilling Equipment
+52,I52,Electric Equipment - Switchgears/Relays/Circuits
+53,I53,Automobiles - Tractors
+54,I54,Packaging - Others
+55,I55,Cement Products
+56,I56,Chemicals - Organic - Large
+57,I57,Cables - Power - Large
+58,I58,Finance - Medium
+59,I59,Fasteners
+60,I60,Electronics - Hard Ferrites
+61,I61,Auto Ancillaries - Shock Absorbers
+62,I62,Construction - Civil / Turnkey - Large
+63,I63,Textiles - Others
+64,I64,Aluminium Chemicals
+65,I65,Auto Ancillaries - Engine Parts
+66,I66,Entertainment - Content Providers
+67,I67,Shipping - Large
+68,I68,Engines
+69,I69,Cigarettes
+70,I70,Chlor-Alkali
+71,I71,Textiles - Acrylic Fibre
+72,I72,Finance - Housing - Large
+73,I73,Automobiles - Motorcycles / Mopeds
+74,I74,Engineering - Turnkey Services
+75,I75,Automobiles - passenger cars
+76,I76,Ceramics - Sanitaryware / Others
+77,I77,Aluminium
+78,I78,Auto Ancillaries - Friction Materials
+79,I79,Computers - Software - Medium / Small
+80,I80,Industrial Explosives
+81,I81,Textile machinery
+82,I82,Industrial Gas
+83,I83,Textiles - Rayon
+84,I84,Lubricants
+85,I85,Steel - Sponge Iron
+86,I86,Chemicals - Organic - Medium / Small
+87,I87,Steel - Rolling
+88,I88,Diversified - Mega
+89,I89,Domestic Appliances - Fans
+90,I90,Pumps
+91,I91,Retailing
+92,I92,Automobiles - Scooters and 3-Wheelers
+93,I93,Engineering - Heavy - General - Large
+94,I94,Electric Equipment - General - Medium / Small
+95,I95,Tyres - Medium / Small
+96,I96,Construction - Factories / Offices / Commercial
+97,I97,Steel - Medium / Small
+98,I98,Telecommunications - Equipment - Large
+99,I99,Hotels - Medium
+100,I100,Cement - Mini - North India
+101,I101,Carbon Black
+102,I102,Machine Tools - Others
+103,I103,Miscellaneous - Medium / Small
+104,I104,Pesticides / Agrochemicals - Indian - Large
+105,I105,Refineries
+106,I106,Mining / Minerals
+107,I107,Textiles - Manmade - Nylon
+108,I108,Textiles - Weaving
+109,I109,Ceramics - Tiles
+110,I110,Steel - Tubes / Pipes
+111,I111,Decoratives - Wood-based
+112,I112,Auto Ancillaries - Brakes
+113,I113,Finance - Large
+114,I114,Plastics - Sheets
+115,I115,Auto Ancillaries - Others
+116,I116,Chemicals - Inorganic - Medium / Small
+117,I117,Printing & Stationery
+118,I118,Chemicals - Maleic Anhydride / Phthalic Anhydride
+119,I119,Travel Agencies
+120,I120,Metal - Others
+121,I121,Steel - Large
+122,I122,Dry Cells
+123,I123,Pharmaceuticals - Indian - Bulk Drugs
+124,I124,Engineering - Heavy - General - Medium / Small
+125,I125,Auto Ancillaries - Wheels
+126,I126,Sugar - Others
+127,I127,Computers - Software - Large
+128,I128,Auto Ancillaries - Axles / Shafts
+129,I129,Hospitals / Medical Services
+130,I130,Diversified - Medium / Small
+131,I131,Hydraulics
+132,I132,Shipping - medium / small
+133,I133,Finance - Small
+134,I134,Textiles - Manmade - PFY / PSF - From Chips
+135,I135,Textiles - Spinning - Synthetic / Blended
+136,I136,Solvent Extraction - Large
+137,I137,Moulded Luggage
+138,I138,Cables - Telephone
+139,I139,Diversified - Large
+140,I140,Petrochemicals - Polymers - Medium / Small
+141,I141,Finance - Equipment - Leasing & Maintenance
+142,I142,Auto Ancillaries - Lamps
+143,I143,Electrodes - Welding Equipment
+144,I144,Petrochemicals - Others
+145,I145,Engineering - Heavy - Plastic Machinery
+146,I146,Transport - Road
+147,I147,Breweries
+148,I148,Textiles - Silk
+149,I149,Detergents / Intermediates
+150,I150,Textiles - Hosiery / Knitwear
+151,I151,Textiles - Cotton Yarn - Open-Ended Spinning
+152,I152,Diamond Cutting / Jewellery - Large
+153,I153,Construction - Housing - Large
+154,I154,Computers - Hardware - Large
+155,I155,Glass - Sheet / Float
+156,I156,Soda Ash
+157,I157,Packaging - Polyester Film
+158,I158,Electronics - Picture Tubes - Colour
+159,I159,Telecommunications - Equipment - Medium / Small
+160,I160,Oil Exploration / Allied Services
+161,I161,Hotels - Small
+162,I162,Chemicals - Alcohol-based
+163,I163,Packaging - Lamination / Processors - Large
+164,I164,Electronics - Instrumentation And Process Control
+165,I165,Auto Ancillaries - Springs
+166,I166,Auto Ancillaries - Sheet Metal
+167,I167,Transmisson Line Towers / Equipment
+168,I168,Textiles - Cotton Yarn - 100% EOUs
+169,I169,Textiles - Terry Towels
+170,I170,Plastics - Bottles / Jars
+171,I171,Textiles - Manmade - Polypropylene Filament Yarn
+172,I172,Finance - Housing - Medium / Small
+173,I173,Hatcheries
+174,I174,Plastics - Pipes
+175,I175,Construction - Housing - Medium / Small
+176,I176,Oil Drilling
+177,I177,Computers - Peripherals / Accessories
+178,I178,Banks - Public Sector
+179,I179,Computers - Hardware - Medium / Small
+180,I180,Textiles - Composite/Cotton/Blended/Fabric - M/S
+181,I181,Electronics - Power Devices / Equipment
+182,I182,Food And Dairy Products - Indian - Large
+183,I183,Leather Products - Others
+184,I184,Aluminium - Extrusions
+185,I185,Pesticides / Agrochemicals - Indian - Medium/Small
+186,I186,Rubber - Products
+187,I187,Solvent Extraction - Medium / Small
+188,I188,Chemicals - Gelatine
+189,I189,Auto Ancillaries - Electrical
+190,I190,Auto Ancillaries - Instruments
+191,I191,Auto Ancillaries - Trading
+192,I192,Engineering - Light - General - Medium / Small
+193,I193,Electronics - Others
+194,I194,Plastics - Furniture
+195,I195,Trading - Large
+196,I196,Distilleries
+197,I197,Pharmaceuticals - Indian - Bulk Drugs & Formln M/S
+198,I198,Steel - Seamless Tubes
+199,I199,Telecommunications - Service Provider
+200,I200,Metal - Zinc
+201,I201,Banks - Private Sector
+202,I202,Miscellaneous - Large
+203,I203,Paper - Medium / Small
+204,I204,Refractories / Intermediates
+205,I205,Securities/Commodities Trading Services
+206,I206,Metal - Copper / Copper Alloy Products
+207,I207,Food - Processing - Spices / Pickles
+208,I208,Granite & Marble - Large
+209,I209,Watches & Accessories
+210,I210,Rubber - Synthetic
+211,I211,Computers - Education
+212,I212,Electronics - TV / Audio / VCR / VCP
+213,I213,Computers - Software - Converts
+214,I214,Food - Processing - Others
+215,I215,Packaging - Polysacks
+216,I216,Bearings - Medium / Small
+217,I217,Steel - Pig Iron
+218,I218,Textiles - Composite/Cotton/Blended/Fabric - LARGE
+219,I219,Leather Products - Integrated
+220,I220,Textiles - Processing
+221,I221,Entertainment - Electronic Media
+222,I222,Vanaspati - Large
+223,I223,Dyes - Reactive / Direct
+224,I224,Finance - Term-Lending Institutions
+225,I225,Food - Proccesing - Rice
+226,I226,Textiles - Embroidery Fabric
+227,I227,Cables - Power - Medium / Small
+228,I228,Analytical Laboratory Equipment
+229,I229,Packaging - Plastic Containers
+230,I230,Food - Processing - Mushrooms
+231,I231,Packaging - Lamination / Processors - Medium/Small
+232,I232,Personal Care - Indian - Large
+233,I233,Coke / Metalurgical Coke
+234,I234,Textiles - Readymade Apparel
+235,I235,Plastics - PU & PU leather
+236,I236,Hotels - Resorts
+237,I237,Diamond Cutting / Jewellery - Medium / Small
+238,I238,Floriculture / Tissue Culture
+239,I239,Food and Dairy Products - Indian - Medium / Small
+240,I240,Plastics - Thermoware
+241,I241,Couriers
+242,I242,Pharmaceuticals - I V Fluids
+243,I243,Domestic Appliances - Cookers / Others
+244,I244,Leather Products - Garments
+245,I245,Lighting Systems
+246,I246,Glass - Containers / Others
+247,I247,Laminates
+248,I248,Pollution Control Equipment
+249,I249,Contraceptives / Protectives
+250,I250,Dyes And Pigments - Medium / Small
+251,I251,LPG Bottling
+252,I252,Transport - Airlines
+253,I253,Tea - Processing And Trading
+254,I254,Ferro Alloys
+255,I255,Finance - Leasing And Diversified
+256,I256,Textiles - Jute - Yarn / Products
+257,I257,Plastics - Flooring
+258,I258,Aluminium - Sheets / Coils / Wires / Others
+259,I259,Gas Distribution
+260,I260,Biotechnology
+261,I261,Fertilizers - Phosphatic - Single Super Phosphate
+262,I262,Medical Accessories / Disposables
+263,I263,IT Enabled Services / Business Process Outsourcing
+264,I264,Ship - Breaking / Repairing
+265,I265,Castings - Steel / Alloy
+266,I266,Food - Processing - Egg Powder
+267,I267,Medical Equipment
+268,I268,Personal Care - Indian - Medium / Small
+269,I269,Chemicals - Inorganic - Large
+270,I270,Forgings - Medium / Small
+271,I271,Photographic And Allied Products
+272,I272,Steel - Wires
+273,I273,Fire - Protection Equipment
+274,I274,Food - Processing - Atta / Rava / Sooji
+275,I275,Dyes - Intermediate
+276,I276,Chemicals - Pentaerythritol / Formaldehyde
+277,I277,Rubber - Retreading
+278,I278,Recreation / Amusement Parks
+279,I279,Food - Processing - Fruit Processing
+280,I280,Textiles - Worsted Fabric

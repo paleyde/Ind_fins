@@ -1,0 +1,73 @@
+,sector_name,comp_nos,ind_nos
+0,Agro Chemicals,12,3
+1,Air Transport Service,4,1
+2,Alcoholic Beverages,13,2
+3,Auto Ancillaries,69,18
+4,Automobile,16,5
+5,Banks,41,2
+6,Bearings,1,1
+7,Cables,16,3
+8,Capital Goods - Electrical Equipment,52,8
+9,Capital Goods-Non Electrical Equipment,51,16
+10,"Castings, Forgings & Fastners",20,5
+11,Cement,26,4
+12,Cement - Products,7,1
+13,Ceramic Products,10,2
+14,Chemicals,71,23
+15,Computer Education,9,1
+16,Construction,42,5
+17,Consumer Durables,37,11
+18,Crude Oil & Natural Gas,7,1
+19,"Diamond, Gems and Jewellery",20,2
+20,Diversified,9,3
+21,Dry cells,3,1
+22,Edible Oil,15,3
+23,Education,2,1
+24,Engineering,5,4
+25,Entertainment,40,3
+26,FMCG,42,14
+27,Fertilizers,18,2
+28,Finance,113,10
+29,Gas Distribution,5,1
+30,Glass & Glass Products,5,2
+31,Healthcare,11,3
+32,Hotels & Restaurants,23,4
+33,IT - Hardware,10,3
+34,IT - Software,118,4
+35,Infrastructure Developers & Operators,28,4
+36,Insurance,1,1
+37,Leather,9,4
+38,Logistics,15,3
+39,Media - Print/Television/Radio,18,3
+40,Mining & Mineral products,20,4
+41,Miscellaneous,57,17
+42,Non Ferrous Metals,19,7
+43,Oil Drill/Allied,3,2
+44,Online Media,1,1
+45,Packaging,25,7
+46,Paints/Varnish,7,1
+47,Paper,20,2
+48,Petrochemicals,10,3
+49,Pharmaceuticals,88,7
+50,Plantation & Plantation Products,21,7
+51,Plastic products,29,9
+52,Power Generation & Distribution,27,1
+53,Printing & Stationery,3,1
+54,Readymade Garments/ Apparells,11,1
+55,Realty,55,5
+56,Refineries,7,1
+57,Refractories,3,1
+58,Retail,10,1
+59,Sanitaryware,1,1
+60,Ship Building,3,1
+61,Shipping,9,2
+62,Steel,77,8
+63,Stock/ Commodity Brokers,6,1
+64,Sugar,29,2
+65,Telecom-Handsets/Mobile,1,1
+66,Telecomm Equipment & Infra Services,14,3
+67,Telecomm-Service,9,1
+68,Textiles,131,26
+69,Tobacco Products,4,1
+70,Trading,32,2
+71,Tyres,8,2

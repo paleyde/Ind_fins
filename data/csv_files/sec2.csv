@@ -1,0 +1,73 @@
+,sector_code,sector_name
+0,S0,Cement
+1,S1,Trading
+2,S2,Pharmaceuticals
+3,S3,Paper
+4,S4,Tyres
+5,S5,Textiles
+6,S6,Automobile
+7,S7,Hotels & Restaurants
+8,S8,Paints/Varnish
+9,S9,Plantation & Plantation Products
+10,S10,Auto Ancillaries
+11,S11,Miscellaneous
+12,S12,Chemicals
+13,S13,Finance
+14,S14,Consumer Durables
+15,S15,Sugar
+16,S16,Leather
+17,S17,Agro Chemicals
+18,S18,Capital Goods - Electrical Equipment
+19,S19,"Castings, Forgings & Fastners"
+20,S20,Plastic products
+21,S21,Power Generation & Distribution
+22,S22,FMCG
+23,S23,Capital Goods-Non Electrical Equipment
+24,S24,Construction
+25,S25,Fertilizers
+26,S26,Packaging
+27,S27,Petrochemicals
+28,S28,Cement - Products
+29,S29,Cables
+30,S30,Infrastructure Developers & Operators
+31,S31,Entertainment
+32,S32,Shipping
+33,S33,Tobacco Products
+34,S34,Engineering
+35,S35,Sanitaryware
+36,S36,Non Ferrous Metals
+37,S37,IT - Software
+38,S38,Steel
+39,S39,Diversified
+40,S40,Retail
+41,S41,Realty
+42,S42,Telecomm Equipment & Infra Services
+43,S43,Refineries
+44,S44,Mining & Mineral products
+45,S45,Ceramic Products
+46,S46,Media - Print/Television/Radio
+47,S47,Dry cells
+48,S48,Healthcare
+49,S49,Edible Oil
+50,S50,Logistics
+51,S51,Alcoholic Beverages
+52,S52,"Diamond, Gems and Jewellery"
+53,S53,IT - Hardware
+54,S54,Glass & Glass Products
+55,S55,Crude Oil & Natural Gas
+56,S56,Printing & Stationery
+57,S57,Oil Drill/Allied
+58,S58,Banks
+59,S59,Telecom-Handsets/Mobile
+60,S60,Telecomm-Service
+61,S61,Refractories
+62,S62,Computer Education
+63,S63,Stock/ Commodity Brokers
+64,S64,Readymade Garments/ Apparells
+65,S65,Air Transport Service
+66,S66,Gas Distribution
+67,S67,Online Media
+68,S68,Ship Building
+69,S69,Insurance
+70,S70,Education
+71,S71,Bearings
